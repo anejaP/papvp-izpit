@@ -1,0 +1,2155 @@
+enota,leto,spremenljivka,vrednost
+Africa,2005,Urban population (percent),36.9
+Africa,2010,Urban population (percent),38.9
+Africa,2015,Urban population (percent),41.2
+Africa,2018,Urban population (percent),42.5
+Northern Africa,2005,Urban population (percent),49.3
+Northern Africa,2010,Urban population (percent),50.5
+Northern Africa,2015,Urban population (percent),51.4
+Northern Africa,2018,Urban population (percent),52.0
+Sub-Saharan Africa,2005,Urban population (percent),33.7
+Sub-Saharan Africa,2010,Urban population (percent),36.1
+Sub-Saharan Africa,2015,Urban population (percent),38.8
+Sub-Saharan Africa,2018,Urban population (percent),40.4
+Eastern Africa,2005,Urban population (percent),22.5
+Eastern Africa,2010,Urban population (percent),24.4
+Eastern Africa,2015,Urban population (percent),26.6
+Eastern Africa,2018,Urban population (percent),28.0
+Middle Africa,2005,Urban population (percent),42.6
+Middle Africa,2010,Urban population (percent),45.2
+Middle Africa,2015,Urban population (percent),47.9
+Middle Africa,2018,Urban population (percent),49.5
+Southern Africa,2005,Urban population (percent),56.5
+Southern Africa,2010,Urban population (percent),59.4
+Southern Africa,2015,Urban population (percent),62.1
+Southern Africa,2018,Urban population (percent),63.6
+Western Africa,2005,Urban population (percent),37.8
+Western Africa,2010,Urban population (percent),41.1
+Western Africa,2015,Urban population (percent),44.5
+Western Africa,2018,Urban population (percent),46.4
+Northern America,2005,Urban population (percent),80.0
+Northern America,2010,Urban population (percent),80.8
+Northern America,2015,Urban population (percent),81.6
+Northern America,2018,Urban population (percent),82.2
+Latin America & the Caribbean,2005,Urban population (percent),77.1
+Latin America & the Caribbean,2010,Urban population (percent),78.6
+Latin America & the Caribbean,2015,Urban population (percent),79.9
+Latin America & the Caribbean,2018,Urban population (percent),80.7
+Caribbean,2005,Urban population (percent),65.4
+Caribbean,2010,Urban population (percent),67.8
+Caribbean,2015,Urban population (percent),70.0
+Caribbean,2018,Urban population (percent),71.3
+Central America,2005,Urban population (percent),70.3
+Central America,2010,Urban population (percent),72.1
+Central America,2015,Urban population (percent),73.7
+Central America,2018,Urban population (percent),74.7
+South America,2005,Urban population (percent),81.1
+South America,2010,Urban population (percent),82.4
+South America,2015,Urban population (percent),83.5
+South America,2018,Urban population (percent),84.1
+Asia,2005,Urban population (percent),41.2
+Asia,2010,Urban population (percent),44.8
+Asia,2015,Urban population (percent),48.0
+Asia,2018,Urban population (percent),49.9
+Central Asia,2005,Urban population (percent),46.8
+Central Asia,2010,Urban population (percent),48.0
+Central Asia,2015,Urban population (percent),48.1
+Central Asia,2018,Urban population (percent),48.2
+Eastern Asia,2005,Urban population (percent),48.3
+Eastern Asia,2010,Urban population (percent),54.4
+Eastern Asia,2015,Urban population (percent),59.8
+Eastern Asia,2018,Urban population (percent),62.9
+South-eastern Asia,2005,Urban population (percent),41.1
+South-eastern Asia,2010,Urban population (percent),44.3
+South-eastern Asia,2015,Urban population (percent),47.2
+South-eastern Asia,2018,Urban population (percent),48.9
+Southern Asia,2005,Urban population (percent),30.7
+Southern Asia,2010,Urban population (percent),32.5
+Southern Asia,2015,Urban population (percent),34.5
+Southern Asia,2018,Urban population (percent),35.8
+Western Asia,2005,Urban population (percent),65.8
+Western Asia,2010,Urban population (percent),68.2
+Western Asia,2015,Urban population (percent),70.4
+Western Asia,2018,Urban population (percent),71.6
+Europe,2005,Urban population (percent),71.9
+Europe,2010,Urban population (percent),72.9
+Europe,2015,Urban population (percent),73.9
+Europe,2018,Urban population (percent),74.5
+Eastern Europe,2005,Urban population (percent),68.5
+Eastern Europe,2010,Urban population (percent),68.9
+Eastern Europe,2015,Urban population (percent),69.3
+Eastern Europe,2018,Urban population (percent),69.6
+Northern Europe,2005,Urban population (percent),78.9
+Northern Europe,2010,Urban population (percent),80.1
+Northern Europe,2015,Urban population (percent),81.4
+Northern Europe,2018,Urban population (percent),82.2
+Southern Europe,2005,Urban population (percent),67.8
+Southern Europe,2010,Urban population (percent),69.2
+Southern Europe,2015,Urban population (percent),70.6
+Southern Europe,2018,Urban population (percent),71.5
+Western Europe,2005,Urban population (percent),77.3
+Western Europe,2010,Urban population (percent),78.5
+Western Europe,2015,Urban population (percent),79.4
+Western Europe,2018,Urban population (percent),79.9
+Oceania,2005,Urban population (percent),68.0
+Oceania,2010,Urban population (percent),68.1
+Oceania,2015,Urban population (percent),68.1
+Oceania,2018,Urban population (percent),68.2
+Australia and New Zealand,2005,Urban population (percent),84.9
+Australia and New Zealand,2010,Urban population (percent),85.3
+Australia and New Zealand,2015,Urban population (percent),85.8
+Australia and New Zealand,2018,Urban population (percent),86.1
+Melanesia,2005,Urban population (percent),18.9
+Melanesia,2010,Urban population (percent),19.0
+Melanesia,2015,Urban population (percent),19.2
+Melanesia,2018,Urban population (percent),19.4
+Micronesia,2005,Urban population (percent),65.9
+Micronesia,2010,Urban population (percent),66.6
+Micronesia,2015,Urban population (percent),67.9
+Micronesia,2018,Urban population (percent),68.7
+Polynesia,2005,Urban population (percent),43.5
+Polynesia,2010,Urban population (percent),44.3
+Polynesia,2015,Urban population (percent),44.5
+Polynesia,2018,Urban population (percent),44.4
+Afghanistan,2005,Urban population (percent),22.7
+Afghanistan,2005,Capital city population (thousands),2905.0
+Afghanistan,2005,Capital city population (as a percentage of total population),11.6
+Afghanistan,2010,Urban population (percent),23.7
+Afghanistan,2010,Capital city population (thousands),3289.0
+Afghanistan,2010,Capital city population (as a percentage of total population),11.4
+Afghanistan,2015,Urban population (percent),24.8
+Afghanistan,2015,Capital city population (thousands),3724.0
+Afghanistan,2015,Capital city population (as a percentage of total population),11.0
+Afghanistan,2018,Urban population (percent),25.5
+Afghanistan,2018,Capital city population (thousands),4012.0
+Albania,2005,Urban population (percent),46.7
+Albania,2005,Capital city population (thousands),372.0
+Albania,2005,Capital city population (as a percentage of total population),12.1
+Albania,2010,Urban population (percent),52.2
+Albania,2010,Capital city population (thousands),409.0
+Albania,2010,Capital city population (as a percentage of total population),13.9
+Albania,2015,Urban population (percent),57.4
+Albania,2015,Capital city population (thousands),449.0
+Albania,2015,Capital city population (as a percentage of total population),15.4
+Albania,2018,Urban population (percent),60.3
+Albania,2018,Capital city population (thousands),476.0
+Algeria,2005,Urban population (percent),63.8
+Algeria,2005,Capital city population (thousands),2282.0
+Algeria,2005,Capital city population (as a percentage of total population),6.9
+Algeria,2010,Urban population (percent),67.5
+Algeria,2010,Capital city population (thousands),2432.0
+Algeria,2010,Capital city population (as a percentage of total population),6.7
+Algeria,2015,Urban population (percent),70.8
+Algeria,2015,Capital city population (thousands),2592.0
+Algeria,2015,Capital city population (as a percentage of total population),6.5
+Algeria,2018,Urban population (percent),72.6
+Algeria,2018,Capital city population (thousands),2694.0
+American Samoa,2005,Urban population (percent),88.1
+American Samoa,2010,Urban population (percent),87.6
+American Samoa,2015,Urban population (percent),87.2
+American Samoa,2018,Urban population (percent),87.2
+American Samoa,2018,Capital city population (thousands),49.0
+Andorra,2005,Urban population (percent),90.3
+Andorra,2010,Urban population (percent),88.8
+Andorra,2015,Urban population (percent),88.3
+Andorra,2018,Urban population (percent),88.1
+Andorra,2018,Capital city population (thousands),23.0
+Angola,2005,Urban population (percent),56.0
+Angola,2005,Capital city population (thousands),3872.0
+Angola,2005,Capital city population (as a percentage of total population),19.8
+Angola,2010,Urban population (percent),59.8
+Angola,2010,Capital city population (thousands),5300.0
+Angola,2010,Capital city population (as a percentage of total population),22.7
+Angola,2015,Urban population (percent),63.4
+Angola,2015,Capital city population (thousands),7023.0
+Angola,2015,Capital city population (as a percentage of total population),25.2
+Angola,2018,Urban population (percent),65.5
+Angola,2018,Capital city population (thousands),7774.0
+Anguilla,2005,Urban population (percent),100.0
+Anguilla,2010,Urban population (percent),100.0
+Anguilla,2015,Urban population (percent),100.0
+Anguilla,2018,Urban population (percent),100.0
+Anguilla,2018,Capital city population (thousands),1.0
+Antigua and Barbuda,2005,Urban population (percent),29.2
+Antigua and Barbuda,2010,Urban population (percent),26.2
+Antigua and Barbuda,2015,Urban population (percent),25.0
+Antigua and Barbuda,2018,Urban population (percent),24.6
+Antigua and Barbuda,2018,Capital city population (thousands),21.0
+Argentina,2005,Urban population (percent),90.0
+Argentina,2005,Capital city population (thousands),13330.0
+Argentina,2005,Capital city population (as a percentage of total population),34.1
+Argentina,2010,Urban population (percent),90.8
+Argentina,2010,Capital city population (thousands),14246.0
+Argentina,2010,Capital city population (as a percentage of total population),34.6
+Argentina,2015,Urban population (percent),91.5
+Argentina,2015,Capital city population (thousands),14706.0
+Argentina,2015,Capital city population (as a percentage of total population),33.9
+Argentina,2018,Urban population (percent),91.9
+Argentina,2018,Capital city population (thousands),14967.0
+Armenia,2005,Urban population (percent),63.9
+Armenia,2005,Capital city population (thousands),1087.0
+Armenia,2005,Capital city population (as a percentage of total population),36.5
+Armenia,2010,Urban population (percent),63.4
+Armenia,2010,Capital city population (thousands),1066.0
+Armenia,2010,Capital city population (as a percentage of total population),37.0
+Armenia,2015,Urban population (percent),63.1
+Armenia,2015,Capital city population (thousands),1071.0
+Armenia,2015,Capital city population (as a percentage of total population),36.7
+Armenia,2018,Urban population (percent),63.1
+Armenia,2018,Capital city population (thousands),1080.0
+Aruba,2005,Urban population (percent),44.9
+Aruba,2010,Urban population (percent),43.1
+Aruba,2015,Urban population (percent),43.1
+Aruba,2018,Urban population (percent),43.4
+Aruba,2018,Capital city population (thousands),30.0
+Australia,2005,Urban population (percent),84.6
+Australia,2005,Capital city population (thousands),366.0
+Australia,2005,Capital city population (as a percentage of total population),1.8
+Australia,2010,Urban population (percent),85.2
+Australia,2010,Capital city population (thousands),398.0
+Australia,2010,Capital city population (as a percentage of total population),1.8
+Australia,2015,Urban population (percent),85.7
+Australia,2015,Capital city population (thousands),429.0
+Australia,2015,Capital city population (as a percentage of total population),1.8
+Australia,2018,Urban population (percent),86.0
+Australia,2018,Capital city population (thousands),448.0
+Austria,2005,Urban population (percent),58.8
+Austria,2005,Capital city population (thousands),1641.0
+Austria,2005,Capital city population (as a percentage of total population),19.9
+Austria,2010,Urban population (percent),57.4
+Austria,2010,Capital city population (thousands),1731.0
+Austria,2010,Capital city population (as a percentage of total population),20.6
+Austria,2015,Urban population (percent),57.7
+Austria,2015,Capital city population (thousands),1835.0
+Austria,2015,Capital city population (as a percentage of total population),21.1
+Austria,2018,Urban population (percent),58.3
+Austria,2018,Capital city population (thousands),1901.0
+Azerbaijan,2005,Urban population (percent),52.4
+Azerbaijan,2005,Capital city population (thousands),1867.0
+Azerbaijan,2005,Capital city population (as a percentage of total population),21.9
+Azerbaijan,2010,Urban population (percent),53.4
+Azerbaijan,2010,Capital city population (thousands),2062.0
+Azerbaijan,2010,Capital city population (as a percentage of total population),22.8
+Azerbaijan,2015,Urban population (percent),54.7
+Azerbaijan,2015,Capital city population (thousands),2206.0
+Azerbaijan,2015,Capital city population (as a percentage of total population),22.9
+Azerbaijan,2018,Urban population (percent),55.7
+Azerbaijan,2018,Capital city population (thousands),2286.0
+Bahamas,2005,Urban population (percent),82.2
+Bahamas,2010,Urban population (percent),82.4
+Bahamas,2015,Urban population (percent),82.7
+Bahamas,2018,Urban population (percent),83.0
+Bahamas,2018,Capital city population (thousands),280.0
+Bahrain,2005,Urban population (percent),88.4
+Bahrain,2005,Capital city population (thousands),198.0
+Bahrain,2005,Capital city population (as a percentage of total population),22.3
+Bahrain,2010,Urban population (percent),88.6
+Bahrain,2010,Capital city population (thousands),292.0
+Bahrain,2010,Capital city population (as a percentage of total population),23.5
+Bahrain,2015,Urban population (percent),89.0
+Bahrain,2015,Capital city population (thousands),441.0
+Bahrain,2015,Capital city population (as a percentage of total population),32.1
+Bahrain,2018,Urban population (percent),89.3
+Bahrain,2018,Capital city population (thousands),565.0
+Bangladesh,2005,Urban population (percent),26.8
+Bangladesh,2005,Capital city population (thousands),12331.0
+Bangladesh,2005,Capital city population (as a percentage of total population),8.6
+Bangladesh,2010,Urban population (percent),30.5
+Bangladesh,2010,Capital city population (thousands),14731.0
+Bangladesh,2010,Capital city population (as a percentage of total population),9.7
+Bangladesh,2015,Urban population (percent),34.3
+Bangladesh,2015,Capital city population (thousands),17597.0
+Bangladesh,2015,Capital city population (as a percentage of total population),10.9
+Bangladesh,2018,Urban population (percent),36.6
+Bangladesh,2018,Capital city population (thousands),19578.0
+Barbados,2005,Urban population (percent),32.8
+Barbados,2010,Urban population (percent),31.9
+Barbados,2015,Urban population (percent),31.2
+Barbados,2018,Urban population (percent),31.1
+Barbados,2018,Capital city population (thousands),89.0
+Belarus,2005,Urban population (percent),72.4
+Belarus,2005,Capital city population (thousands),1775.0
+Belarus,2005,Capital city population (as a percentage of total population),18.4
+Belarus,2010,Urban population (percent),74.7
+Belarus,2010,Capital city population (thousands),1850.0
+Belarus,2010,Capital city population (as a percentage of total population),19.5
+Belarus,2015,Urban population (percent),77.2
+Belarus,2015,Capital city population (thousands),1945.0
+Belarus,2015,Capital city population (as a percentage of total population),20.5
+Belarus,2018,Urban population (percent),78.6
+Belarus,2018,Capital city population (thousands),2005.0
+Belgium,2005,Urban population (percent),97.4
+Belgium,2005,Capital city population (thousands),1853.0
+Belgium,2005,Capital city population (as a percentage of total population),17.6
+Belgium,2010,Urban population (percent),97.7
+Belgium,2010,Capital city population (thousands),1926.0
+Belgium,2010,Capital city population (as a percentage of total population),17.6
+Belgium,2015,Urban population (percent),97.9
+Belgium,2015,Capital city population (thousands),2002.0
+Belgium,2015,Capital city population (as a percentage of total population),17.7
+Belgium,2018,Urban population (percent),98.0
+Belgium,2018,Capital city population (thousands),2050.0
+Belize,2005,Urban population (percent),45.3
+Belize,2010,Urban population (percent),45.2
+Belize,2015,Urban population (percent),45.4
+Belize,2018,Urban population (percent),45.7
+Belize,2018,Capital city population (thousands),23.0
+Benin,2005,Urban population (percent),40.5
+Benin,2010,Urban population (percent),43.1
+Benin,2015,Urban population (percent),45.7
+Benin,2018,Urban population (percent),47.3
+Benin,2018,Capital city population (thousands),285.0
+Bermuda,2005,Urban population (percent),100.0
+Bermuda,2010,Urban population (percent),100.0
+Bermuda,2015,Urban population (percent),100.0
+Bermuda,2018,Urban population (percent),100.0
+Bermuda,2018,Capital city population (thousands),10.0
+Bhutan,2005,Urban population (percent),31.0
+Bhutan,2010,Urban population (percent),34.8
+Bhutan,2015,Urban population (percent),38.7
+Bhutan,2018,Urban population (percent),40.9
+Bhutan,2018,Capital city population (thousands),203.0
+Bolivia (Plurin. State of),2005,Urban population (percent),64.2
+Bolivia (Plurin. State of),2010,Urban population (percent),66.4
+Bolivia (Plurin. State of),2015,Urban population (percent),68.4
+Bolivia (Plurin. State of),2018,Urban population (percent),69.4
+Bolivia (Plurin. State of),2018,Capital city population (thousands),278.0
+"Bonaire, St. Eustatius & Saba",2005,Urban population (percent),74.8
+"Bonaire, St. Eustatius & Saba",2010,Urban population (percent),74.7
+"Bonaire, St. Eustatius & Saba",2015,Urban population (percent),74.8
+"Bonaire, St. Eustatius & Saba",2018,Urban population (percent),74.9
+"Bonaire, St. Eustatius & Saba",2018,Capital city population (thousands),11.0
+Bosnia and Herzegovina,2005,Urban population (percent),44.0
+Bosnia and Herzegovina,2005,Capital city population (thousands),342.0
+Bosnia and Herzegovina,2005,Capital city population (as a percentage of total population),9.0
+Bosnia and Herzegovina,2010,Urban population (percent),45.6
+Bosnia and Herzegovina,2010,Capital city population (thousands),342.0
+Bosnia and Herzegovina,2010,Capital city population (as a percentage of total population),9.2
+Bosnia and Herzegovina,2015,Urban population (percent),47.2
+Bosnia and Herzegovina,2015,Capital city population (thousands),342.0
+Bosnia and Herzegovina,2015,Capital city population (as a percentage of total population),9.7
+Bosnia and Herzegovina,2018,Urban population (percent),48.2
+Bosnia and Herzegovina,2018,Capital city population (thousands),343.0
+Botswana,2005,Urban population (percent),55.9
+Botswana,2010,Urban population (percent),62.4
+Botswana,2015,Urban population (percent),67.2
+Botswana,2018,Urban population (percent),69.4
+Botswana,2018,Capital city population (thousands),269.0
+Brazil,2005,Urban population (percent),82.8
+Brazil,2005,Capital city population (thousands),3301.0
+Brazil,2005,Capital city population (as a percentage of total population),1.8
+Brazil,2010,Urban population (percent),84.3
+Brazil,2010,Capital city population (thousands),3710.0
+Brazil,2010,Capital city population (as a percentage of total population),1.9
+Brazil,2015,Urban population (percent),85.8
+Brazil,2015,Capital city population (thousands),4168.0
+Brazil,2015,Capital city population (as a percentage of total population),2.0
+Brazil,2018,Urban population (percent),86.6
+Brazil,2018,Capital city population (thousands),4470.0
+British Virgin Islands,2005,Urban population (percent),43.2
+British Virgin Islands,2010,Urban population (percent),44.8
+British Virgin Islands,2015,Urban population (percent),46.6
+British Virgin Islands,2018,Urban population (percent),47.7
+British Virgin Islands,2018,Capital city population (thousands),15.0
+Brunei Darussalam,2005,Urban population (percent),73.2
+Brunei Darussalam,2010,Urban population (percent),75.0
+Brunei Darussalam,2015,Urban population (percent),76.7
+Brunei Darussalam,2018,Urban population (percent),77.6
+Brunei Darussalam,2018,Capital city population (thousands),41.0
+Bulgaria,2005,Urban population (percent),70.6
+Bulgaria,2005,Capital city population (thousands),1169.0
+Bulgaria,2005,Capital city population (as a percentage of total population),15.2
+Bulgaria,2010,Urban population (percent),72.3
+Bulgaria,2010,Capital city population (thousands),1216.0
+Bulgaria,2010,Capital city population (as a percentage of total population),16.4
+Bulgaria,2015,Urban population (percent),74.0
+Bulgaria,2015,Capital city population (thousands),1256.0
+Bulgaria,2015,Capital city population (as a percentage of total population),17.5
+Bulgaria,2018,Urban population (percent),75.0
+Bulgaria,2018,Capital city population (thousands),1272.0
+Burkina Faso,2005,Urban population (percent),21.5
+Burkina Faso,2005,Capital city population (thousands),1328.0
+Burkina Faso,2005,Capital city population (as a percentage of total population),9.9
+Burkina Faso,2010,Urban population (percent),24.6
+Burkina Faso,2010,Capital city population (thousands),1742.0
+Burkina Faso,2010,Capital city population (as a percentage of total population),11.2
+Burkina Faso,2015,Urban population (percent),27.5
+Burkina Faso,2015,Capital city population (thousands),2200.0
+Burkina Faso,2015,Capital city population (as a percentage of total population),12.2
+Burkina Faso,2018,Urban population (percent),29.4
+Burkina Faso,2018,Capital city population (thousands),2531.0
+Burundi,2005,Urban population (percent),9.4
+Burundi,2005,Capital city population (thousands),412.0
+Burundi,2005,Capital city population (as a percentage of total population),5.6
+Burundi,2010,Urban population (percent),10.6
+Burundi,2010,Capital city population (thousands),556.0
+Burundi,2010,Capital city population (as a percentage of total population),6.3
+Burundi,2015,Urban population (percent),12.1
+Burundi,2015,Capital city population (thousands),751.0
+Burundi,2015,Capital city population (as a percentage of total population),7.4
+Burundi,2018,Urban population (percent),13.0
+Burundi,2018,Capital city population (thousands),899.0
+Cabo Verde,2005,Urban population (percent),57.7
+Cabo Verde,2010,Urban population (percent),61.8
+Cabo Verde,2015,Urban population (percent),64.3
+Cabo Verde,2018,Urban population (percent),65.7
+Cabo Verde,2018,Capital city population (thousands),168.0
+Cambodia,2005,Urban population (percent),19.2
+Cambodia,2005,Capital city population (thousands),1317.0
+Cambodia,2005,Capital city population (as a percentage of total population),9.9
+Cambodia,2010,Urban population (percent),20.3
+Cambodia,2010,Capital city population (thousands),1523.0
+Cambodia,2010,Capital city population (as a percentage of total population),10.6
+Cambodia,2015,Urban population (percent),22.2
+Cambodia,2015,Capital city population (thousands),1779.0
+Cambodia,2015,Capital city population (as a percentage of total population),11.5
+Cambodia,2018,Urban population (percent),23.4
+Cambodia,2018,Capital city population (thousands),1952.0
+Cameroon,2005,Urban population (percent),48.5
+Cameroon,2005,Capital city population (thousands),1781.0
+Cameroon,2005,Capital city population (as a percentage of total population),10.2
+Cameroon,2010,Urban population (percent),51.6
+Cameroon,2010,Capital city population (thousands),2349.0
+Cameroon,2010,Capital city population (as a percentage of total population),11.8
+Cameroon,2015,Urban population (percent),54.6
+Cameroon,2015,Capital city population (thousands),3097.0
+Cameroon,2015,Capital city population (as a percentage of total population),13.6
+Cameroon,2018,Urban population (percent),56.4
+Cameroon,2018,Capital city population (thousands),3656.0
+Canada,2005,Urban population (percent),80.1
+Canada,2005,Capital city population (thousands),1122.0
+Canada,2005,Capital city population (as a percentage of total population),3.5
+Canada,2010,Urban population (percent),80.9
+Canada,2010,Capital city population (thousands),1218.0
+Canada,2010,Capital city population (as a percentage of total population),3.6
+Canada,2015,Urban population (percent),81.3
+Canada,2015,Capital city population (thousands),1308.0
+Canada,2015,Capital city population (as a percentage of total population),3.6
+Canada,2018,Urban population (percent),81.4
+Canada,2018,Capital city population (thousands),1363.0
+Cayman Islands,2005,Urban population (percent),100.0
+Cayman Islands,2010,Urban population (percent),100.0
+Cayman Islands,2015,Urban population (percent),100.0
+Cayman Islands,2018,Urban population (percent),100.0
+Cayman Islands,2018,Capital city population (thousands),35.0
+Central African Republic,2005,Urban population (percent),38.1
+Central African Republic,2005,Capital city population (thousands),644.0
+Central African Republic,2005,Capital city population (as a percentage of total population),15.6
+Central African Republic,2010,Urban population (percent),38.9
+Central African Republic,2010,Capital city population (thousands),717.0
+Central African Republic,2010,Capital city population (as a percentage of total population),16.1
+Central African Republic,2015,Urban population (percent),40.3
+Central African Republic,2015,Capital city population (thousands),798.0
+Central African Republic,2015,Capital city population (as a percentage of total population),17.6
+Central African Republic,2018,Urban population (percent),41.4
+Central African Republic,2018,Capital city population (thousands),851.0
+Chad,2005,Urban population (percent),21.8
+Chad,2005,Capital city population (thousands),827.0
+Chad,2005,Capital city population (as a percentage of total population),8.2
+Chad,2010,Urban population (percent),22.0
+Chad,2010,Capital city population (thousands),991.0
+Chad,2010,Capital city population (as a percentage of total population),8.3
+Chad,2015,Urban population (percent),22.5
+Chad,2015,Capital city population (thousands),1187.0
+Chad,2015,Capital city population (as a percentage of total population),8.5
+Chad,2018,Urban population (percent),23.1
+Chad,2018,Capital city population (thousands),1323.0
+Channel Islands,2005,Urban population (percent),30.7
+Channel Islands,2010,Urban population (percent),31.1
+Channel Islands,2015,Urban population (percent),31.0
+Channel Islands,2018,Urban population (percent),30.9
+Channel Islands,2018,Capital city population (thousands),34.0
+Chile,2005,Urban population (percent),86.8
+Chile,2005,Capital city population (thousands),6025.0
+Chile,2005,Capital city population (as a percentage of total population),37.3
+Chile,2010,Urban population (percent),87.1
+Chile,2010,Capital city population (thousands),6269.0
+Chile,2010,Capital city population (as a percentage of total population),36.9
+Chile,2015,Urban population (percent),87.4
+Chile,2015,Capital city population (thousands),6523.0
+Chile,2015,Capital city population (as a percentage of total population),36.7
+Chile,2018,Urban population (percent),87.6
+Chile,2018,Capital city population (thousands),6680.0
+China,2005,Urban population (percent),42.5
+China,2005,Capital city population (thousands),12991.0
+China,2005,Capital city population (as a percentage of total population),1.0
+China,2010,Urban population (percent),49.2
+China,2010,Capital city population (thousands),16441.0
+China,2010,Capital city population (as a percentage of total population),1.2
+China,2015,Urban population (percent),55.5
+China,2015,Capital city population (thousands),18421.0
+China,2015,Capital city population (as a percentage of total population),1.3
+China,2018,Urban population (percent),59.2
+China,2018,Capital city population (thousands),19618.0
+"China, Hong Kong SAR",2005,Urban population (percent),100.0
+"China, Hong Kong SAR",2005,Capital city population (thousands),6828.0
+"China, Hong Kong SAR",2005,Capital city population (as a percentage of total population),100.0
+"China, Hong Kong SAR",2010,Urban population (percent),100.0
+"China, Hong Kong SAR",2010,Capital city population (thousands),7025.0
+"China, Hong Kong SAR",2010,Capital city population (as a percentage of total population),100.0
+"China, Hong Kong SAR",2015,Urban population (percent),100.0
+"China, Hong Kong SAR",2015,Capital city population (thousands),7246.0
+"China, Hong Kong SAR",2015,Capital city population (as a percentage of total population),100.0
+"China, Hong Kong SAR",2018,Urban population (percent),100.0
+"China, Hong Kong SAR",2018,Capital city population (thousands),7429.0
+"China, Macao SAR",2005,Urban population (percent),100.0
+"China, Macao SAR",2005,Capital city population (thousands),483.0
+"China, Macao SAR",2005,Capital city population (as a percentage of total population),100.0
+"China, Macao SAR",2010,Urban population (percent),100.0
+"China, Macao SAR",2010,Capital city population (thousands),537.0
+"China, Macao SAR",2010,Capital city population (as a percentage of total population),100.0
+"China, Macao SAR",2015,Urban population (percent),100.0
+"China, Macao SAR",2015,Capital city population (thousands),601.0
+"China, Macao SAR",2015,Capital city population (as a percentage of total population),100.0
+"China, Macao SAR",2018,Urban population (percent),100.0
+"China, Macao SAR",2018,Capital city population (thousands),632.0
+Colombia,2005,Urban population (percent),76.0
+Colombia,2005,Capital city population (thousands),7299.0
+Colombia,2005,Capital city population (as a percentage of total population),16.9
+Colombia,2010,Urban population (percent),78.0
+Colombia,2010,Capital city population (thousands),8418.0
+Colombia,2010,Capital city population (as a percentage of total population),18.3
+Colombia,2015,Urban population (percent),79.8
+Colombia,2015,Capital city population (thousands),9708.0
+Colombia,2015,Capital city population (as a percentage of total population),20.1
+Colombia,2018,Urban population (percent),80.8
+Colombia,2018,Capital city population (thousands),10574.0
+Comoros,2005,Urban population (percent),27.9
+Comoros,2010,Urban population (percent),28.0
+Comoros,2015,Urban population (percent),28.5
+Comoros,2018,Urban population (percent),29.0
+Comoros,2018,Capital city population (thousands),62.0
+Congo,2005,Urban population (percent),61.0
+Congo,2005,Capital city population (thousands),1269.0
+Congo,2005,Capital city population (as a percentage of total population),34.1
+Congo,2010,Urban population (percent),63.3
+Congo,2010,Capital city population (thousands),1576.0
+Congo,2010,Capital city population (as a percentage of total population),35.9
+Congo,2015,Urban population (percent),65.5
+Congo,2015,Capital city population (thousands),1958.0
+Congo,2015,Capital city population (as a percentage of total population),39.2
+Congo,2018,Urban population (percent),66.9
+Congo,2018,Capital city population (thousands),2230.0
+Cook Islands,2005,Urban population (percent),71.0
+Cook Islands,2010,Urban population (percent),73.3
+Cook Islands,2015,Urban population (percent),74.4
+Cook Islands,2018,Urban population (percent),75.1
+Cook Islands,2018,Capital city population (thousands),13.0
+Costa Rica,2005,Urban population (percent),65.7
+Costa Rica,2005,Capital city population (thousands),1114.0
+Costa Rica,2005,Capital city population (as a percentage of total population),26.2
+Costa Rica,2010,Urban population (percent),71.7
+Costa Rica,2010,Capital city population (thousands),1202.0
+Costa Rica,2010,Capital city population (as a percentage of total population),26.4
+Costa Rica,2015,Urban population (percent),76.9
+Costa Rica,2015,Capital city population (thousands),1297.0
+Costa Rica,2015,Capital city population (as a percentage of total population),27.0
+Costa Rica,2018,Urban population (percent),79.3
+Costa Rica,2018,Capital city population (thousands),1358.0
+CÙte díIvoire,2005,Urban population (percent),45.2
+CÙte díIvoire,2010,Urban population (percent),47.3
+CÙte díIvoire,2015,Urban population (percent),49.4
+CÙte díIvoire,2018,Urban population (percent),50.8
+CÙte díIvoire,2018,Capital city population (thousands),231.0
+Croatia,2005,Urban population (percent),54.3
+Croatia,2005,Capital city population (thousands),690.0
+Croatia,2005,Capital city population (as a percentage of total population),15.8
+Croatia,2010,Urban population (percent),55.2
+Croatia,2010,Capital city population (thousands),688.0
+Croatia,2010,Capital city population (as a percentage of total population),15.9
+Croatia,2015,Urban population (percent),56.2
+Croatia,2015,Capital city population (thousands),687.0
+Croatia,2015,Capital city population (as a percentage of total population),16.2
+Croatia,2018,Urban population (percent),56.9
+Croatia,2018,Capital city population (thousands),686.0
+Cuba,2005,Urban population (percent),76.1
+Cuba,2005,Capital city population (thousands),2180.0
+Cuba,2005,Capital city population (as a percentage of total population),19.3
+Cuba,2010,Urban population (percent),76.6
+Cuba,2010,Capital city population (thousands),2143.0
+Cuba,2010,Capital city population (as a percentage of total population),18.9
+Cuba,2015,Urban population (percent),76.9
+Cuba,2015,Capital city population (thousands),2124.0
+Cuba,2015,Capital city population (as a percentage of total population),18.5
+Cuba,2018,Urban population (percent),77.0
+Cuba,2018,Capital city population (thousands),2136.0
+CuraÁao,2005,Urban population (percent),90.5
+CuraÁao,2010,Urban population (percent),89.9
+CuraÁao,2015,Urban population (percent),89.4
+CuraÁao,2018,Urban population (percent),89.1
+CuraÁao,2018,Capital city population (thousands),144.0
+Cyprus,2005,Urban population (percent),68.3
+Cyprus,2010,Urban population (percent),67.6
+Cyprus,2015,Urban population (percent),66.9
+Cyprus,2018,Urban population (percent),66.8
+Cyprus,2018,Capital city population (thousands),269.0
+Czechia,2005,Urban population (percent),73.6
+Czechia,2005,Capital city population (thousands),1199.0
+Czechia,2005,Capital city population (as a percentage of total population),11.7
+Czechia,2010,Urban population (percent),73.3
+Czechia,2010,Capital city population (thousands),1234.0
+Czechia,2010,Capital city population (as a percentage of total population),11.7
+Czechia,2015,Urban population (percent),73.5
+Czechia,2015,Capital city population (thousands),1269.0
+Czechia,2015,Capital city population (as a percentage of total population),12.0
+Czechia,2018,Urban population (percent),73.8
+Czechia,2018,Capital city population (thousands),1292.0
+Dem. People's Rep. Korea,2005,Urban population (percent),59.8
+Dem. People's Rep. Korea,2005,Capital city population (thousands),2805.0
+Dem. People's Rep. Korea,2005,Capital city population (as a percentage of total population),11.7
+Dem. People's Rep. Korea,2010,Urban population (percent),60.4
+Dem. People's Rep. Korea,2010,Capital city population (thousands),2861.0
+Dem. People's Rep. Korea,2010,Capital city population (as a percentage of total population),11.6
+Dem. People's Rep. Korea,2015,Urban population (percent),61.3
+Dem. People's Rep. Korea,2015,Capital city population (thousands),2970.0
+Dem. People's Rep. Korea,2015,Capital city population (as a percentage of total population),11.8
+Dem. People's Rep. Korea,2018,Urban population (percent),61.9
+Dem. People's Rep. Korea,2018,Capital city population (thousands),3038.0
+Dem. Rep. of the Congo,2005,Urban population (percent),37.5
+Dem. Rep. of the Congo,2005,Capital city population (thousands),7589.0
+Dem. Rep. of the Congo,2005,Capital city population (as a percentage of total population),13.9
+Dem. Rep. of the Congo,2010,Urban population (percent),40.0
+Dem. Rep. of the Congo,2010,Capital city population (thousands),9382.0
+Dem. Rep. of the Congo,2010,Capital city population (as a percentage of total population),14.5
+Dem. Rep. of the Congo,2015,Urban population (percent),42.7
+Dem. Rep. of the Congo,2015,Capital city population (thousands),11598.0
+Dem. Rep. of the Congo,2015,Capital city population (as a percentage of total population),15.2
+Dem. Rep. of the Congo,2018,Urban population (percent),44.5
+Dem. Rep. of the Congo,2018,Capital city population (thousands),13171.0
+Denmark,2005,Urban population (percent),85.9
+Denmark,2005,Capital city population (thousands),1127.0
+Denmark,2005,Capital city population (as a percentage of total population),20.8
+Denmark,2010,Urban population (percent),86.8
+Denmark,2010,Capital city population (thousands),1192.0
+Denmark,2010,Capital city population (as a percentage of total population),21.5
+Denmark,2015,Urban population (percent),87.5
+Denmark,2015,Capital city population (thousands),1271.0
+Denmark,2015,Capital city population (as a percentage of total population),22.3
+Denmark,2018,Urban population (percent),87.9
+Denmark,2018,Capital city population (thousands),1321.0
+Djibouti,2005,Urban population (percent),76.8
+Djibouti,2005,Capital city population (thousands),442.0
+Djibouti,2005,Capital city population (as a percentage of total population),56.5
+Djibouti,2010,Urban population (percent),77.0
+Djibouti,2010,Capital city population (thousands),485.0
+Djibouti,2010,Capital city population (as a percentage of total population),57.0
+Djibouti,2015,Urban population (percent),77.4
+Djibouti,2015,Capital city population (thousands),531.0
+Djibouti,2015,Capital city population (as a percentage of total population),57.3
+Djibouti,2018,Urban population (percent),77.8
+Djibouti,2018,Capital city population (thousands),562.0
+Dominica,2005,Urban population (percent),66.6
+Dominica,2010,Urban population (percent),68.1
+Dominica,2015,Urban population (percent),69.6
+Dominica,2018,Urban population (percent),70.5
+Dominica,2018,Capital city population (thousands),15.0
+Dominican Republic,2005,Urban population (percent),67.4
+Dominican Republic,2005,Capital city population (thousands),2297.0
+Dominican Republic,2005,Capital city population (as a percentage of total population),24.9
+Dominican Republic,2010,Urban population (percent),73.8
+Dominican Republic,2010,Capital city population (thousands),2601.0
+Dominican Republic,2010,Capital city population (as a percentage of total population),26.3
+Dominican Republic,2015,Urban population (percent),78.6
+Dominican Republic,2015,Capital city population (thousands),2945.0
+Dominican Republic,2015,Capital city population (as a percentage of total population),28.0
+Dominican Republic,2018,Urban population (percent),81.1
+Dominican Republic,2018,Capital city population (thousands),3172.0
+Ecuador,2005,Urban population (percent),61.7
+Ecuador,2005,Capital city population (thousands),1479.0
+Ecuador,2005,Capital city population (as a percentage of total population),10.8
+Ecuador,2010,Urban population (percent),62.7
+Ecuador,2010,Capital city population (thousands),1598.0
+Ecuador,2010,Capital city population (as a percentage of total population),10.7
+Ecuador,2015,Urban population (percent),63.4
+Ecuador,2015,Capital city population (thousands),1734.0
+Ecuador,2015,Capital city population (as a percentage of total population),10.7
+Ecuador,2018,Urban population (percent),63.8
+Ecuador,2018,Capital city population (thousands),1822.0
+Egypt,2005,Urban population (percent),43.0
+Egypt,2005,Capital city population (thousands),15174.0
+Egypt,2005,Capital city population (as a percentage of total population),19.8
+Egypt,2010,Urban population (percent),43.0
+Egypt,2010,Capital city population (thousands),16899.0
+Egypt,2010,Capital city population (as a percentage of total population),20.1
+Egypt,2015,Urban population (percent),42.8
+Egypt,2015,Capital city population (thousands),18820.0
+Egypt,2015,Capital city population (as a percentage of total population),20.1
+Egypt,2018,Urban population (percent),42.7
+Egypt,2018,Capital city population (thousands),20076.0
+El Salvador,2005,Urban population (percent),61.6
+El Salvador,2005,Capital city population (thousands),1074.0
+El Salvador,2005,Capital city population (as a percentage of total population),17.8
+El Salvador,2010,Urban population (percent),65.5
+El Salvador,2010,Capital city population (thousands),1086.0
+El Salvador,2010,Capital city population (as a percentage of total population),17.6
+El Salvador,2015,Urban population (percent),69.7
+El Salvador,2015,Capital city population (thousands),1099.0
+El Salvador,2015,Capital city population (as a percentage of total population),17.4
+El Salvador,2018,Urban population (percent),72.0
+El Salvador,2018,Capital city population (thousands),1107.0
+Equatorial Guinea,2005,Urban population (percent),57.7
+Equatorial Guinea,2010,Urban population (percent),65.9
+Equatorial Guinea,2015,Urban population (percent),70.6
+Equatorial Guinea,2018,Urban population (percent),72.1
+Equatorial Guinea,2018,Capital city population (thousands),297.0
+Eritrea,2005,Urban population (percent),31.1
+Eritrea,2005,Capital city population (thousands),558.0
+Eritrea,2005,Capital city population (as a percentage of total population),14.1
+Eritrea,2010,Urban population (percent),35.2
+Eritrea,2010,Capital city population (thousands),670.0
+Eritrea,2010,Capital city population (as a percentage of total population),15.3
+Eritrea,2015,Urban population (percent),38.2
+Eritrea,2015,Capital city population (thousands),803.0
+Eritrea,2015,Capital city population (as a percentage of total population),16.6
+Eritrea,2018,Urban population (percent),40.1
+Eritrea,2018,Capital city population (thousands),896.0
+Estonia,2005,Urban population (percent),68.7
+Estonia,2005,Capital city population (thousands),397.0
+Estonia,2005,Capital city population (as a percentage of total population),29.3
+Estonia,2010,Urban population (percent),68.1
+Estonia,2010,Capital city population (thousands),394.0
+Estonia,2010,Capital city population (as a percentage of total population),29.6
+Estonia,2015,Urban population (percent),68.4
+Estonia,2015,Capital city population (thousands),416.0
+Estonia,2015,Capital city population (as a percentage of total population),31.6
+Estonia,2018,Urban population (percent),68.9
+Estonia,2018,Capital city population (thousands),437.0
+Eswatini,2005,Urban population (percent),22.0
+Eswatini,2010,Urban population (percent),22.5
+Eswatini,2015,Urban population (percent),23.3
+Eswatini,2018,Urban population (percent),23.8
+Eswatini,2018,Capital city population (thousands),68.0
+Ethiopia,2005,Urban population (percent),15.7
+Ethiopia,2005,Capital city population (thousands),2634.0
+Ethiopia,2005,Capital city population (as a percentage of total population),3.4
+Ethiopia,2010,Urban population (percent),17.3
+Ethiopia,2010,Capital city population (thousands),3126.0
+Ethiopia,2010,Capital city population (as a percentage of total population),3.6
+Ethiopia,2015,Urban population (percent),19.4
+Ethiopia,2015,Capital city population (thousands),3871.0
+Ethiopia,2015,Capital city population (as a percentage of total population),3.9
+Ethiopia,2018,Urban population (percent),20.8
+Ethiopia,2018,Capital city population (thousands),4400.0
+Falkland Islands (Malvinas),2005,Urban population (percent),70.8
+Falkland Islands (Malvinas),2010,Urban population (percent),73.7
+Falkland Islands (Malvinas),2015,Urban population (percent),76.3
+Falkland Islands (Malvinas),2018,Urban population (percent),77.7
+Falkland Islands (Malvinas),2018,Capital city population (thousands),2.0
+Faroe Islands,2005,Urban population (percent),39.8
+Faroe Islands,2010,Urban population (percent),40.9
+Faroe Islands,2015,Urban population (percent),41.6
+Faroe Islands,2018,Urban population (percent),42.1
+Faroe Islands,2018,Capital city population (thousands),21.0
+Fiji,2005,Urban population (percent),49.9
+Fiji,2010,Urban population (percent),52.2
+Fiji,2015,Urban population (percent),54.7
+Fiji,2018,Urban population (percent),56.2
+Fiji,2018,Capital city population (thousands),178.0
+Finland,2005,Urban population (percent),82.9
+Finland,2005,Capital city population (thousands),1067.0
+Finland,2005,Capital city population (as a percentage of total population),20.3
+Finland,2010,Urban population (percent),83.8
+Finland,2010,Capital city population (thousands),1126.0
+Finland,2010,Capital city population (as a percentage of total population),21.0
+Finland,2015,Urban population (percent),85.2
+Finland,2015,Capital city population (thousands),1222.0
+Finland,2015,Capital city population (as a percentage of total population),22.3
+Finland,2018,Urban population (percent),85.4
+Finland,2018,Capital city population (thousands),1279.0
+France,2005,Urban population (percent),77.1
+France,2005,Capital city population (thousands),10092.0
+France,2005,Capital city population (as a percentage of total population),16.5
+France,2010,Urban population (percent),78.4
+France,2010,Capital city population (thousands),10460.0
+France,2010,Capital city population (as a percentage of total population),16.6
+France,2015,Urban population (percent),79.7
+France,2015,Capital city population (thousands),10734.0
+France,2015,Capital city population (as a percentage of total population),16.7
+France,2018,Urban population (percent),80.4
+France,2018,Capital city population (thousands),10901.0
+French Guiana,2005,Urban population (percent),81.1
+French Guiana,2010,Urban population (percent),82.9
+French Guiana,2015,Urban population (percent),84.5
+French Guiana,2018,Urban population (percent),85.3
+French Guiana,2018,Capital city population (thousands),58.0
+French Polynesia,2005,Urban population (percent),57.4
+French Polynesia,2010,Urban population (percent),60.3
+French Polynesia,2015,Urban population (percent),61.7
+French Polynesia,2018,Urban population (percent),61.8
+French Polynesia,2018,Capital city population (thousands),136.0
+Gabon,2005,Urban population (percent),82.5
+Gabon,2005,Capital city population (thousands),563.0
+Gabon,2005,Capital city population (as a percentage of total population),40.1
+Gabon,2010,Urban population (percent),85.5
+Gabon,2010,Capital city population (thousands),649.0
+Gabon,2010,Capital city population (as a percentage of total population),39.5
+Gabon,2015,Urban population (percent),88.1
+Gabon,2015,Capital city population (thousands),747.0
+Gabon,2015,Capital city population (as a percentage of total population),38.7
+Gabon,2018,Urban population (percent),89.4
+Gabon,2018,Capital city population (thousands),813.0
+Gambia,2005,Urban population (percent),52.0
+Gambia,2005,Capital city population (thousands),368.0
+Gambia,2005,Capital city population (as a percentage of total population),25.5
+Gambia,2010,Urban population (percent),55.7
+Gambia,2010,Capital city population (thousands),393.0
+Gambia,2010,Capital city population (as a percentage of total population),23.3
+Gambia,2015,Urban population (percent),59.2
+Gambia,2015,Capital city population (thousands),420.0
+Gambia,2015,Capital city population (as a percentage of total population),21.3
+Gambia,2018,Urban population (percent),61.3
+Gambia,2018,Capital city population (thousands),437.0
+Georgia,2005,Urban population (percent),53.6
+Georgia,2005,Capital city population (thousands),1081.0
+Georgia,2005,Capital city population (as a percentage of total population),24.1
+Georgia,2010,Urban population (percent),55.5
+Georgia,2010,Capital city population (thousands),1079.0
+Georgia,2010,Capital city population (as a percentage of total population),25.5
+Georgia,2015,Urban population (percent),57.4
+Georgia,2015,Capital city population (thousands),1078.0
+Georgia,2015,Capital city population (as a percentage of total population),27.3
+Georgia,2018,Urban population (percent),58.6
+Georgia,2018,Capital city population (thousands),1077.0
+Germany,2005,Urban population (percent),76.0
+Germany,2005,Capital city population (thousands),3391.0
+Germany,2005,Capital city population (as a percentage of total population),4.2
+Germany,2010,Urban population (percent),77.0
+Germany,2010,Capital city population (thousands),3450.0
+Germany,2010,Capital city population (as a percentage of total population),4.3
+Germany,2015,Urban population (percent),77.2
+Germany,2015,Capital city population (thousands),3514.0
+Germany,2015,Capital city population (as a percentage of total population),4.3
+Germany,2018,Urban population (percent),77.3
+Germany,2018,Capital city population (thousands),3552.0
+Ghana,2005,Urban population (percent),47.3
+Ghana,2005,Capital city population (thousands),1854.0
+Ghana,2005,Capital city population (as a percentage of total population),8.6
+Ghana,2010,Urban population (percent),50.7
+Ghana,2010,Capital city population (thousands),2060.0
+Ghana,2010,Capital city population (as a percentage of total population),8.4
+Ghana,2015,Urban population (percent),54.1
+Ghana,2015,Capital city population (thousands),2290.0
+Ghana,2015,Capital city population (as a percentage of total population),8.3
+Ghana,2018,Urban population (percent),56.1
+Ghana,2018,Capital city population (thousands),2439.0
+Gibraltar,2005,Urban population (percent),100.0
+Gibraltar,2010,Urban population (percent),100.0
+Gibraltar,2015,Urban population (percent),100.0
+Gibraltar,2018,Urban population (percent),100.0
+Gibraltar,2018,Capital city population (thousands),35.0
+Greece,2005,Urban population (percent),74.5
+Greece,2005,Capital city population (thousands),3180.0
+Greece,2005,Capital city population (as a percentage of total population),28.1
+Greece,2010,Urban population (percent),76.3
+Greece,2010,Capital city population (thousands),3170.0
+Greece,2010,Capital city population (as a percentage of total population),27.7
+Greece,2015,Urban population (percent),78.0
+Greece,2015,Capital city population (thousands),3161.0
+Greece,2015,Capital city population (as a percentage of total population),28.2
+Greece,2018,Urban population (percent),79.1
+Greece,2018,Capital city population (thousands),3156.0
+Greenland,2005,Urban population (percent),82.9
+Greenland,2010,Urban population (percent),84.4
+Greenland,2015,Urban population (percent),86.1
+Greenland,2018,Urban population (percent),86.8
+Greenland,2018,Capital city population (thousands),18.0
+Grenada,2005,Urban population (percent),35.9
+Grenada,2010,Urban population (percent),35.9
+Grenada,2015,Urban population (percent),36.0
+Grenada,2018,Urban population (percent),36.3
+Grenada,2018,Capital city population (thousands),39.0
+Guadeloupe,2005,Urban population (percent),98.4
+Guadeloupe,2010,Urban population (percent),98.4
+Guadeloupe,2015,Urban population (percent),98.4
+Guadeloupe,2018,Urban population (percent),98.5
+Guadeloupe,2018,Capital city population (thousands),58.0
+Guam,2005,Urban population (percent),93.6
+Guam,2010,Urban population (percent),94.1
+Guam,2015,Urban population (percent),94.5
+Guam,2018,Urban population (percent),94.8
+Guam,2018,Capital city population (thousands),147.0
+Guatemala,2005,Urban population (percent),46.9
+Guatemala,2005,Capital city population (thousands),2302.0
+Guatemala,2005,Capital city population (as a percentage of total population),17.6
+Guatemala,2010,Urban population (percent),48.4
+Guatemala,2010,Capital city population (thousands),2560.0
+Guatemala,2010,Capital city population (as a percentage of total population),17.5
+Guatemala,2015,Urban population (percent),50.0
+Guatemala,2015,Capital city population (thousands),2738.0
+Guatemala,2015,Capital city population (as a percentage of total population),16.8
+Guatemala,2018,Urban population (percent),51.1
+Guatemala,2018,Capital city population (thousands),2851.0
+Guinea,2005,Urban population (percent),32.3
+Guinea,2005,Capital city population (thousands),1345.0
+Guinea,2005,Capital city population (as a percentage of total population),13.9
+Guinea,2010,Urban population (percent),33.7
+Guinea,2010,Capital city population (thousands),1518.0
+Guinea,2010,Capital city population (as a percentage of total population),14.1
+Guinea,2015,Urban population (percent),35.1
+Guinea,2015,Capital city population (thousands),1714.0
+Guinea,2015,Capital city population (as a percentage of total population),14.2
+Guinea,2018,Urban population (percent),36.1
+Guinea,2018,Capital city population (thousands),1843.0
+Guinea-Bissau,2005,Urban population (percent),38.2
+Guinea-Bissau,2005,Capital city population (thousands),336.0
+Guinea-Bissau,2005,Capital city population (as a percentage of total population),24.3
+Guinea-Bissau,2010,Urban population (percent),40.1
+Guinea-Bissau,2010,Capital city population (thousands),409.0
+Guinea-Bissau,2010,Capital city population (as a percentage of total population),26.3
+Guinea-Bissau,2015,Urban population (percent),42.1
+Guinea-Bissau,2015,Capital city population (thousands),497.0
+Guinea-Bissau,2015,Capital city population (as a percentage of total population),28.1
+Guinea-Bissau,2018,Urban population (percent),43.4
+Guinea-Bissau,2018,Capital city population (thousands),558.0
+Guyana,2005,Urban population (percent),27.8
+Guyana,2010,Urban population (percent),26.6
+Guyana,2015,Urban population (percent),26.4
+Guyana,2018,Urban population (percent),26.6
+Guyana,2018,Capital city population (thousands),110.0
+Haiti,2005,Urban population (percent),42.6
+Haiti,2005,Capital city population (thousands),2171.0
+Haiti,2005,Capital city population (as a percentage of total population),23.4
+Haiti,2010,Urban population (percent),47.5
+Haiti,2010,Capital city population (thousands),2141.0
+Haiti,2010,Capital city population (as a percentage of total population),21.4
+Haiti,2015,Urban population (percent),52.4
+Haiti,2015,Capital city population (thousands),2439.0
+Haiti,2015,Capital city population (as a percentage of total population),22.8
+Haiti,2018,Urban population (percent),55.3
+Haiti,2018,Capital city population (thousands),2637.0
+Holy See,2005,Urban population (percent),100.0
+Holy See,2010,Urban population (percent),100.0
+Holy See,2015,Urban population (percent),100.0
+Holy See,2018,Urban population (percent),100.0
+Holy See,2018,Capital city population (thousands),1.0
+Honduras,2005,Urban population (percent),48.6
+Honduras,2005,Capital city population (thousands),882.0
+Honduras,2005,Capital city population (as a percentage of total population),12.0
+Honduras,2010,Urban population (percent),51.9
+Honduras,2010,Capital city population (thousands),1043.0
+Honduras,2010,Capital city population (as a percentage of total population),12.7
+Honduras,2015,Urban population (percent),55.2
+Honduras,2015,Capital city population (thousands),1233.0
+Honduras,2015,Capital city population (as a percentage of total population),13.8
+Honduras,2018,Urban population (percent),57.1
+Honduras,2018,Capital city population (thousands),1363.0
+Hungary,2005,Urban population (percent),66.4
+Hungary,2005,Capital city population (thousands),1756.0
+Hungary,2005,Capital city population (as a percentage of total population),17.4
+Hungary,2010,Urban population (percent),68.9
+Hungary,2010,Capital city population (thousands),1734.0
+Hungary,2010,Capital city population (as a percentage of total population),17.5
+Hungary,2015,Urban population (percent),70.5
+Hungary,2015,Capital city population (thousands),1746.0
+Hungary,2015,Capital city population (as a percentage of total population),17.8
+Hungary,2018,Urban population (percent),71.4
+Hungary,2018,Capital city population (thousands),1759.0
+Iceland,2005,Urban population (percent),93.0
+Iceland,2010,Urban population (percent),93.6
+Iceland,2015,Urban population (percent),93.7
+Iceland,2018,Urban population (percent),93.8
+Iceland,2018,Capital city population (thousands),216.0
+India,2005,Urban population (percent),29.2
+India,2005,Capital city population (thousands),18691.0
+India,2005,Capital city population (as a percentage of total population),1.6
+India,2010,Urban population (percent),30.9
+India,2010,Capital city population (thousands),21988.0
+India,2010,Capital city population (as a percentage of total population),1.8
+India,2015,Urban population (percent),32.8
+India,2015,Capital city population (thousands),25866.0
+India,2015,Capital city population (as a percentage of total population),2.0
+India,2018,Urban population (percent),34.0
+India,2018,Capital city population (thousands),28514.0
+Indonesia,2005,Urban population (percent),45.9
+Indonesia,2005,Capital city population (thousands),8988.0
+Indonesia,2005,Capital city population (as a percentage of total population),4.0
+Indonesia,2010,Urban population (percent),49.9
+Indonesia,2010,Capital city population (thousands),9626.0
+Indonesia,2010,Capital city population (as a percentage of total population),4.0
+Indonesia,2015,Urban population (percent),53.3
+Indonesia,2015,Capital city population (thousands),10173.0
+Indonesia,2015,Capital city population (as a percentage of total population),3.9
+Indonesia,2018,Urban population (percent),55.3
+Indonesia,2018,Capital city population (thousands),10517.0
+Iran (Islamic Republic of),2005,Urban population (percent),67.6
+Iran (Islamic Republic of),2005,Capital city population (thousands),7652.0
+Iran (Islamic Republic of),2005,Capital city population (as a percentage of total population),10.9
+Iran (Islamic Republic of),2010,Urban population (percent),70.6
+Iran (Islamic Republic of),2010,Capital city population (thousands),8059.0
+Iran (Islamic Republic of),2010,Capital city population (as a percentage of total population),10.8
+Iran (Islamic Republic of),2015,Urban population (percent),73.4
+Iran (Islamic Republic of),2015,Capital city population (thousands),8555.0
+Iran (Islamic Republic of),2015,Capital city population (as a percentage of total population),10.8
+Iran (Islamic Republic of),2018,Urban population (percent),74.9
+Iran (Islamic Republic of),2018,Capital city population (thousands),8896.0
+Iraq,2005,Urban population (percent),68.8
+Iraq,2005,Capital city population (thousands),5327.0
+Iraq,2005,Capital city population (as a percentage of total population),19.7
+Iraq,2010,Urban population (percent),69.1
+Iraq,2010,Capital city population (thousands),5652.0
+Iraq,2010,Capital city population (as a percentage of total population),18.4
+Iraq,2015,Urban population (percent),69.9
+Iraq,2015,Capital city population (thousands),6351.0
+Iraq,2015,Capital city population (as a percentage of total population),17.6
+Iraq,2018,Urban population (percent),70.5
+Iraq,2018,Capital city population (thousands),6812.0
+Ireland,2005,Urban population (percent),60.5
+Ireland,2005,Capital city population (thousands),1037.0
+Ireland,2005,Capital city population (as a percentage of total population),24.6
+Ireland,2010,Urban population (percent),61.5
+Ireland,2010,Capital city population (thousands),1100.0
+Ireland,2010,Capital city population (as a percentage of total population),23.8
+Ireland,2015,Urban population (percent),62.5
+Ireland,2015,Capital city population (thousands),1163.0
+Ireland,2015,Capital city population (as a percentage of total population),24.7
+Ireland,2018,Urban population (percent),63.2
+Ireland,2018,Capital city population (thousands),1201.0
+Isle of Man,2005,Urban population (percent),51.9
+Isle of Man,2010,Urban population (percent),52.0
+Isle of Man,2015,Urban population (percent),52.2
+Isle of Man,2018,Urban population (percent),52.6
+Isle of Man,2018,Capital city population (thousands),27.0
+Israel,2005,Urban population (percent),91.5
+Israel,2005,Capital city population (thousands),719.0
+Israel,2005,Capital city population (as a percentage of total population),10.9
+Israel,2010,Urban population (percent),91.8
+Israel,2010,Capital city population (thousands),781.0
+Israel,2010,Capital city population (as a percentage of total population),10.5
+Israel,2015,Urban population (percent),92.2
+Israel,2015,Capital city population (thousands),858.0
+Israel,2015,Capital city population (as a percentage of total population),10.6
+Israel,2018,Urban population (percent),92.4
+Israel,2018,Capital city population (thousands),907.0
+Italy,2005,Urban population (percent),67.7
+Italy,2005,Capital city population (thousands),3807.0
+Italy,2005,Capital city population (as a percentage of total population),6.5
+Italy,2010,Urban population (percent),68.3
+Italy,2010,Capital city population (thousands),3957.0
+Italy,2010,Capital city population (as a percentage of total population),6.6
+Italy,2015,Urban population (percent),69.6
+Italy,2015,Capital city population (thousands),4113.0
+Italy,2015,Capital city population (as a percentage of total population),6.9
+Italy,2018,Urban population (percent),70.4
+Italy,2018,Capital city population (thousands),4210.0
+Jamaica,2005,Urban population (percent),52.8
+Jamaica,2005,Capital city population (thousands),581.0
+Jamaica,2005,Capital city population (as a percentage of total population),21.2
+Jamaica,2010,Urban population (percent),53.7
+Jamaica,2010,Capital city population (thousands),584.0
+Jamaica,2010,Capital city population (as a percentage of total population),20.7
+Jamaica,2015,Urban population (percent),54.8
+Jamaica,2015,Capital city population (thousands),587.0
+Jamaica,2015,Capital city population (as a percentage of total population),20.4
+Jamaica,2018,Urban population (percent),55.7
+Jamaica,2018,Capital city population (thousands),589.0
+Japan,2005,Urban population (percent),86.0
+Japan,2005,Capital city population (thousands),35622.0
+Japan,2005,Capital city population (as a percentage of total population),27.8
+Japan,2010,Urban population (percent),90.8
+Japan,2010,Capital city population (thousands),36860.0
+Japan,2010,Capital city population (as a percentage of total population),28.7
+Japan,2015,Urban population (percent),91.4
+Japan,2015,Capital city population (thousands),37256.0
+Japan,2015,Capital city population (as a percentage of total population),29.1
+Japan,2018,Urban population (percent),91.6
+Japan,2018,Capital city population (thousands),37468.0
+Jordan,2005,Urban population (percent),79.5
+Jordan,2005,Capital city population (thousands),1094.0
+Jordan,2005,Capital city population (as a percentage of total population),19.2
+Jordan,2010,Urban population (percent),86.1
+Jordan,2010,Capital city population (thousands),1397.0
+Jordan,2010,Capital city population (as a percentage of total population),19.4
+Jordan,2015,Urban population (percent),90.3
+Jordan,2015,Capital city population (thousands),1783.0
+Jordan,2015,Capital city population (as a percentage of total population),19.5
+Jordan,2018,Urban population (percent),91.0
+Jordan,2018,Capital city population (thousands),2065.0
+Kazakhstan,2005,Urban population (percent),56.5
+Kazakhstan,2005,Capital city population (thousands),538.0
+Kazakhstan,2005,Capital city population (as a percentage of total population),3.5
+Kazakhstan,2010,Urban population (percent),56.8
+Kazakhstan,2010,Capital city population (thousands),664.0
+Kazakhstan,2010,Capital city population (as a percentage of total population),4.0
+Kazakhstan,2015,Urban population (percent),57.2
+Kazakhstan,2015,Capital city population (thousands),894.0
+Kazakhstan,2015,Capital city population (as a percentage of total population),5.0
+Kazakhstan,2018,Urban population (percent),57.4
+Kazakhstan,2018,Capital city population (thousands),1068.0
+Kenya,2005,Urban population (percent),21.7
+Kenya,2005,Capital city population (thousands),2677.0
+Kenya,2005,Capital city population (as a percentage of total population),7.4
+Kenya,2010,Urban population (percent),23.6
+Kenya,2010,Capital city population (thousands),3237.0
+Kenya,2010,Capital city population (as a percentage of total population),7.8
+Kenya,2015,Urban population (percent),25.7
+Kenya,2015,Capital city population (thousands),3914.0
+Kenya,2015,Capital city population (as a percentage of total population),8.3
+Kenya,2018,Urban population (percent),27.0
+Kenya,2018,Capital city population (thousands),4386.0
+Kiribati,2005,Urban population (percent),43.6
+Kiribati,2010,Urban population (percent),47.4
+Kiribati,2015,Urban population (percent),51.6
+Kiribati,2015,Capital city population (thousands),3.0
+Kiribati,2018,Urban population (percent),54.1
+Kuwait,2005,Urban population (percent),100.0
+Kuwait,2005,Capital city population (thousands),1548.0
+Kuwait,2005,Capital city population (as a percentage of total population),68.0
+Kuwait,2010,Urban population (percent),100.0
+Kuwait,2010,Capital city population (thousands),1994.0
+Kuwait,2010,Capital city population (as a percentage of total population),66.5
+Kuwait,2015,Urban population (percent),100.0
+Kuwait,2015,Capital city population (thousands),2568.0
+Kuwait,2015,Capital city population (as a percentage of total population),65.3
+Kuwait,2018,Urban population (percent),100.0
+Kuwait,2018,Capital city population (thousands),2989.0
+Kyrgyzstan,2005,Urban population (percent),35.3
+Kyrgyzstan,2005,Capital city population (thousands),798.0
+Kyrgyzstan,2005,Capital city population (as a percentage of total population),15.7
+Kyrgyzstan,2010,Urban population (percent),35.3
+Kyrgyzstan,2010,Capital city population (thousands),844.0
+Kyrgyzstan,2010,Capital city population (as a percentage of total population),15.6
+Kyrgyzstan,2015,Urban population (percent),35.8
+Kyrgyzstan,2015,Capital city population (thousands),936.0
+Kyrgyzstan,2015,Capital city population (as a percentage of total population),16.0
+Kyrgyzstan,2018,Urban population (percent),36.4
+Kyrgyzstan,2018,Capital city population (thousands),996.0
+Lao People's Dem. Rep.,2005,Urban population (percent),27.2
+Lao People's Dem. Rep.,2005,Capital city population (thousands),572.0
+Lao People's Dem. Rep.,2005,Capital city population (as a percentage of total population),9.9
+Lao People's Dem. Rep.,2010,Urban population (percent),30.1
+Lao People's Dem. Rep.,2010,Capital city population (thousands),606.0
+Lao People's Dem. Rep.,2010,Capital city population (as a percentage of total population),9.7
+Lao People's Dem. Rep.,2015,Urban population (percent),33.1
+Lao People's Dem. Rep.,2015,Capital city population (thousands),642.0
+Lao People's Dem. Rep.,2015,Capital city population (as a percentage of total population),9.6
+Lao People's Dem. Rep.,2018,Urban population (percent),35.0
+Lao People's Dem. Rep.,2018,Capital city population (thousands),665.0
+Latvia,2005,Urban population (percent),68.0
+Latvia,2005,Capital city population (thousands),712.0
+Latvia,2005,Capital city population (as a percentage of total population),31.6
+Latvia,2010,Urban population (percent),67.8
+Latvia,2010,Capital city population (thousands),665.0
+Latvia,2010,Capital city population (as a percentage of total population),31.4
+Latvia,2015,Urban population (percent),68.0
+Latvia,2015,Capital city population (thousands),646.0
+Latvia,2015,Capital city population (as a percentage of total population),32.4
+Latvia,2018,Urban population (percent),68.1
+Latvia,2018,Capital city population (thousands),637.0
+Lebanon,2005,Urban population (percent),86.6
+Lebanon,2005,Capital city population (thousands),1777.0
+Lebanon,2005,Capital city population (as a percentage of total population),44.6
+Lebanon,2010,Urban population (percent),87.3
+Lebanon,2010,Capital city population (thousands),1990.0
+Lebanon,2010,Capital city population (as a percentage of total population),45.9
+Lebanon,2015,Urban population (percent),88.1
+Lebanon,2015,Capital city population (thousands),2229.0
+Lebanon,2015,Capital city population (as a percentage of total population),38.1
+Lebanon,2018,Urban population (percent),88.6
+Lebanon,2018,Capital city population (thousands),2385.0
+Lesotho,2005,Urban population (percent),22.2
+Lesotho,2010,Urban population (percent),24.8
+Lesotho,2015,Urban population (percent),26.9
+Lesotho,2018,Urban population (percent),28.2
+Lesotho,2018,Capital city population (thousands),202.0
+Liberia,2005,Urban population (percent),46.1
+Liberia,2005,Capital city population (thousands),1202.0
+Liberia,2005,Capital city population (as a percentage of total population),36.9
+Liberia,2010,Urban population (percent),47.8
+Liberia,2010,Capital city population (thousands),1056.0
+Liberia,2010,Capital city population (as a percentage of total population),26.7
+Liberia,2015,Urban population (percent),49.8
+Liberia,2015,Capital city population (thousands),1270.0
+Liberia,2015,Capital city population (as a percentage of total population),28.2
+Liberia,2018,Urban population (percent),51.2
+Liberia,2018,Capital city population (thousands),1418.0
+Libya,2005,Urban population (percent),77.1
+Libya,2005,Capital city population (thousands),1058.0
+Libya,2005,Capital city population (as a percentage of total population),18.3
+Libya,2010,Urban population (percent),78.1
+Libya,2010,Capital city population (thousands),1095.0
+Libya,2010,Capital city population (as a percentage of total population),17.8
+Libya,2015,Urban population (percent),79.3
+Libya,2015,Capital city population (thousands),1134.0
+Libya,2015,Capital city population (as a percentage of total population),18.2
+Libya,2018,Urban population (percent),80.1
+Libya,2018,Capital city population (thousands),1158.0
+Liechtenstein,2005,Urban population (percent),14.7
+Liechtenstein,2010,Urban population (percent),14.5
+Liechtenstein,2015,Urban population (percent),14.3
+Liechtenstein,2018,Urban population (percent),14.3
+Liechtenstein,2018,Capital city population (thousands),5.0
+Lithuania,2005,Urban population (percent),66.6
+Lithuania,2005,Capital city population (thousands),535.0
+Lithuania,2005,Capital city population (as a percentage of total population),16.0
+Lithuania,2010,Urban population (percent),66.8
+Lithuania,2010,Capital city population (thousands),526.0
+Lithuania,2010,Capital city population (as a percentage of total population),16.8
+Lithuania,2015,Urban population (percent),67.2
+Lithuania,2015,Capital city population (thousands),531.0
+Lithuania,2015,Capital city population (as a percentage of total population),18.1
+Lithuania,2018,Urban population (percent),67.7
+Lithuania,2018,Capital city population (thousands),536.0
+Luxembourg,2005,Urban population (percent),86.6
+Luxembourg,2010,Urban population (percent),88.5
+Luxembourg,2015,Urban population (percent),90.2
+Luxembourg,2018,Urban population (percent),91.0
+Luxembourg,2018,Capital city population (thousands),120.0
+Madagascar,2005,Urban population (percent),28.8
+Madagascar,2005,Capital city population (thousands),1561.0
+Madagascar,2005,Capital city population (as a percentage of total population),8.5
+Madagascar,2010,Urban population (percent),31.9
+Madagascar,2010,Capital city population (thousands),2021.0
+Madagascar,2010,Capital city population (as a percentage of total population),9.6
+Madagascar,2015,Urban population (percent),35.2
+Madagascar,2015,Capital city population (thousands),2618.0
+Madagascar,2015,Capital city population (as a percentage of total population),10.8
+Madagascar,2018,Urban population (percent),37.2
+Madagascar,2018,Capital city population (thousands),3058.0
+Malawi,2005,Urban population (percent),15.1
+Malawi,2005,Capital city population (thousands),590.0
+Malawi,2005,Capital city population (as a percentage of total population),4.5
+Malawi,2010,Urban population (percent),15.5
+Malawi,2010,Capital city population (thousands),731.0
+Malawi,2010,Capital city population (as a percentage of total population),4.8
+Malawi,2015,Urban population (percent),16.3
+Malawi,2015,Capital city population (thousands),905.0
+Malawi,2015,Capital city population (as a percentage of total population),5.2
+Malawi,2018,Urban population (percent),16.9
+Malawi,2018,Capital city population (thousands),1030.0
+Malaysia,2005,Urban population (percent),66.6
+Malaysia,2005,Capital city population (thousands),4927.0
+Malaysia,2005,Capital city population (as a percentage of total population),19.2
+Malaysia,2010,Urban population (percent),70.9
+Malaysia,2010,Capital city population (thousands),5810.0
+Malaysia,2010,Capital city population (as a percentage of total population),20.7
+Malaysia,2015,Urban population (percent),74.2
+Malaysia,2015,Capital city population (thousands),6851.0
+Malaysia,2015,Capital city population (as a percentage of total population),22.3
+Malaysia,2018,Urban population (percent),76.0
+Malaysia,2018,Capital city population (thousands),7564.0
+Maldives,2005,Urban population (percent),33.8
+Maldives,2010,Urban population (percent),36.4
+Maldives,2015,Urban population (percent),38.5
+Maldives,2018,Urban population (percent),39.8
+Maldives,2018,Capital city population (thousands),177.0
+Mali,2005,Urban population (percent),32.1
+Mali,2005,Capital city population (thousands),1486.0
+Mali,2005,Capital city population (as a percentage of total population),11.6
+Mali,2010,Urban population (percent),36.0
+Mali,2010,Capital city population (thousands),1886.0
+Mali,2010,Capital city population (as a percentage of total population),12.5
+Mali,2015,Urban population (percent),40.0
+Mali,2015,Capital city population (thousands),2219.0
+Mali,2015,Capital city population (as a percentage of total population),12.7
+Mali,2018,Urban population (percent),42.4
+Mali,2018,Capital city population (thousands),2447.0
+Malta,2005,Urban population (percent),93.6
+Malta,2010,Urban population (percent),94.1
+Malta,2015,Urban population (percent),94.4
+Malta,2018,Urban population (percent),94.6
+Malta,2018,Capital city population (thousands),213.0
+Marshall Islands,2005,Urban population (percent),71.1
+Marshall Islands,2010,Urban population (percent),73.6
+Marshall Islands,2015,Urban population (percent),75.8
+Marshall Islands,2018,Urban population (percent),77.0
+Marshall Islands,2018,Capital city population (thousands),31.0
+Martinique,2005,Urban population (percent),89.3
+Martinique,2010,Urban population (percent),89.1
+Martinique,2015,Urban population (percent),89.0
+Martinique,2018,Urban population (percent),89.0
+Martinique,2018,Capital city population (thousands),79.0
+Mauritania,2005,Urban population (percent),42.1
+Mauritania,2005,Capital city population (thousands),684.0
+Mauritania,2005,Capital city population (as a percentage of total population),21.8
+Mauritania,2010,Urban population (percent),46.6
+Mauritania,2010,Capital city population (thousands),851.0
+Mauritania,2010,Capital city population (as a percentage of total population),23.6
+Mauritania,2015,Urban population (percent),51.1
+Mauritania,2015,Capital city population (thousands),1058.0
+Mauritania,2015,Capital city population (as a percentage of total population),25.3
+Mauritania,2018,Urban population (percent),53.7
+Mauritania,2018,Capital city population (thousands),1205.0
+Mauritius,2005,Urban population (percent),42.1
+Mauritius,2010,Urban population (percent),41.6
+Mauritius,2015,Urban population (percent),41.0
+Mauritius,2018,Urban population (percent),40.8
+Mauritius,2018,Capital city population (thousands),149.0
+Mayotte,2005,Urban population (percent),50.2
+Mayotte,2010,Urban population (percent),49.0
+Mayotte,2015,Urban population (percent),47.0
+Mayotte,2018,Urban population (percent),46.1
+Mayotte,2018,Capital city population (thousands),6.0
+Mexico,2005,Urban population (percent),76.3
+Mexico,2005,Capital city population (thousands),19276.0
+Mexico,2005,Capital city population (as a percentage of total population),17.8
+Mexico,2010,Urban population (percent),77.8
+Mexico,2010,Capital city population (thousands),20137.0
+Mexico,2010,Capital city population (as a percentage of total population),17.2
+Mexico,2015,Urban population (percent),79.3
+Mexico,2015,Capital city population (thousands),21340.0
+Mexico,2015,Capital city population (as a percentage of total population),17.0
+Mexico,2018,Urban population (percent),80.2
+Mexico,2018,Capital city population (thousands),21581.0
+Micronesia (Fed. States of),2005,Urban population (percent),22.3
+Micronesia (Fed. States of),2010,Urban population (percent),22.3
+Micronesia (Fed. States of),2015,Urban population (percent),22.5
+Micronesia (Fed. States of),2018,Urban population (percent),22.7
+Micronesia (Fed. States of),2018,Capital city population (thousands),7.0
+Monaco,2005,Urban population (percent),100.0
+Monaco,2010,Urban population (percent),100.0
+Monaco,2015,Urban population (percent),100.0
+Monaco,2018,Urban population (percent),100.0
+Monaco,2018,Capital city population (thousands),39.0
+Mongolia,2005,Urban population (percent),62.5
+Mongolia,2005,Capital city population (thousands),933.0
+Mongolia,2005,Capital city population (as a percentage of total population),36.9
+Mongolia,2010,Urban population (percent),67.6
+Mongolia,2010,Capital city population (thousands),1138.0
+Mongolia,2010,Capital city population (as a percentage of total population),41.9
+Mongolia,2015,Urban population (percent),68.2
+Mongolia,2015,Capital city population (thousands),1365.0
+Mongolia,2015,Capital city population (as a percentage of total population),45.8
+Mongolia,2018,Urban population (percent),68.4
+Mongolia,2018,Capital city population (thousands),1520.0
+Montenegro,2005,Urban population (percent),62.5
+Montenegro,2010,Urban population (percent),64.1
+Montenegro,2015,Urban population (percent),65.8
+Montenegro,2018,Urban population (percent),66.8
+Montenegro,2018,Capital city population (thousands),177.0
+Montserrat,2005,Urban population (percent),9.3
+Montserrat,2010,Urban population (percent),9.2
+Montserrat,2015,Urban population (percent),9.0
+Montserrat,2018,Urban population (percent),9.1
+Montserrat,2018,Capital city population (thousands),0.0
+Morocco,2005,Urban population (percent),55.2
+Morocco,2005,Capital city population (thousands),1635.0
+Morocco,2005,Capital city population (as a percentage of total population),5.4
+Morocco,2010,Urban population (percent),58.0
+Morocco,2010,Capital city population (thousands),1714.0
+Morocco,2010,Capital city population (as a percentage of total population),5.3
+Morocco,2015,Urban population (percent),60.8
+Morocco,2015,Capital city population (thousands),1796.0
+Morocco,2015,Capital city population (as a percentage of total population),5.2
+Morocco,2018,Urban population (percent),62.5
+Morocco,2018,Capital city population (thousands),1847.0
+Mozambique,2005,Urban population (percent),30.0
+Mozambique,2005,Capital city population (thousands),1072.0
+Mozambique,2005,Capital city population (as a percentage of total population),5.1
+Mozambique,2010,Urban population (percent),31.8
+Mozambique,2010,Capital city population (thousands),1097.0
+Mozambique,2010,Capital city population (as a percentage of total population),4.5
+Mozambique,2015,Urban population (percent),34.4
+Mozambique,2015,Capital city population (thousands),1100.0
+Mozambique,2015,Capital city population (as a percentage of total population),3.9
+Mozambique,2018,Urban population (percent),36.0
+Mozambique,2018,Capital city population (thousands),1102.0
+Myanmar,2005,Urban population (percent),27.9
+Myanmar,2005,Capital city population (thousands),148.0
+Myanmar,2005,Capital city population (as a percentage of total population),0.3
+Myanmar,2010,Urban population (percent),28.9
+Myanmar,2010,Capital city population (thousands),234.0
+Myanmar,2010,Capital city population (as a percentage of total population),0.5
+Myanmar,2015,Urban population (percent),29.9
+Myanmar,2015,Capital city population (thousands),376.0
+Myanmar,2015,Capital city population (as a percentage of total population),0.7
+Myanmar,2018,Urban population (percent),30.6
+Myanmar,2018,Capital city population (thousands),500.0
+Namibia,2005,Urban population (percent),36.6
+Namibia,2005,Capital city population (thousands),268.0
+Namibia,2005,Capital city population (as a percentage of total population),13.2
+Namibia,2010,Urban population (percent),41.6
+Namibia,2010,Capital city population (thousands),314.0
+Namibia,2010,Capital city population (as a percentage of total population),14.5
+Namibia,2015,Urban population (percent),46.9
+Namibia,2015,Capital city population (thousands),368.0
+Namibia,2015,Capital city population (as a percentage of total population),15.2
+Namibia,2018,Urban population (percent),50.0
+Namibia,2018,Capital city population (thousands),404.0
+Nauru,2005,Urban population (percent),100.0
+Nauru,2010,Urban population (percent),100.0
+Nauru,2015,Urban population (percent),100.0
+Nauru,2018,Urban population (percent),100.0
+Nauru,2018,Capital city population (thousands),11.0
+Nepal,2005,Urban population (percent),15.1
+Nepal,2005,Capital city population (thousands),790.0
+Nepal,2005,Capital city population (as a percentage of total population),3.1
+Nepal,2010,Urban population (percent),16.8
+Nepal,2010,Capital city population (thousands),965.0
+Nepal,2010,Capital city population (as a percentage of total population),3.6
+Nepal,2015,Urban population (percent),18.6
+Nepal,2015,Capital city population (thousands),1179.0
+Nepal,2015,Capital city population (as a percentage of total population),4.1
+Nepal,2018,Urban population (percent),19.7
+Nepal,2018,Capital city population (thousands),1330.0
+Netherlands,2005,Urban population (percent),82.6
+Netherlands,2005,Capital city population (thousands),1025.0
+Netherlands,2005,Capital city population (as a percentage of total population),6.3
+Netherlands,2010,Urban population (percent),87.1
+Netherlands,2010,Capital city population (thousands),1065.0
+Netherlands,2010,Capital city population (as a percentage of total population),6.4
+Netherlands,2015,Urban population (percent),90.2
+Netherlands,2015,Capital city population (thousands),1106.0
+Netherlands,2015,Capital city population (as a percentage of total population),6.5
+Netherlands,2018,Urban population (percent),91.5
+Netherlands,2018,Capital city population (thousands),1132.0
+New Caledonia,2005,Urban population (percent),64.0
+New Caledonia,2010,Urban population (percent),67.1
+New Caledonia,2015,Urban population (percent),69.4
+New Caledonia,2018,Urban population (percent),70.7
+New Caledonia,2018,Capital city population (thousands),198.0
+New Zealand,2005,Urban population (percent),86.3
+New Zealand,2005,Capital city population (thousands),371.0
+New Zealand,2005,Capital city population (as a percentage of total population),9.0
+New Zealand,2010,Urban population (percent),86.2
+New Zealand,2010,Capital city population (thousands),387.0
+New Zealand,2010,Capital city population (as a percentage of total population),8.9
+New Zealand,2015,Urban population (percent),86.3
+New Zealand,2015,Capital city population (thousands),402.0
+New Zealand,2015,Capital city population (as a percentage of total population),8.7
+New Zealand,2018,Urban population (percent),86.5
+New Zealand,2018,Capital city population (thousands),411.0
+Nicaragua,2005,Urban population (percent),55.9
+Nicaragua,2005,Capital city population (thousands),910.0
+Nicaragua,2005,Capital city population (as a percentage of total population),16.9
+Nicaragua,2010,Urban population (percent),56.9
+Nicaragua,2010,Capital city population (thousands),992.0
+Nicaragua,2010,Capital city population (as a percentage of total population),17.3
+Nicaragua,2015,Urban population (percent),57.9
+Nicaragua,2015,Capital city population (thousands),1027.0
+Nicaragua,2015,Capital city population (as a percentage of total population),16.9
+Nicaragua,2018,Urban population (percent),58.5
+Nicaragua,2018,Capital city population (thousands),1048.0
+Niger,2005,Urban population (percent),16.2
+Niger,2005,Capital city population (thousands),821.0
+Niger,2005,Capital city population (as a percentage of total population),6.0
+Niger,2010,Urban population (percent),16.2
+Niger,2010,Capital city population (thousands),954.0
+Niger,2010,Capital city population (as a percentage of total population),5.8
+Niger,2015,Urban population (percent),16.2
+Niger,2015,Capital city population (thousands),1109.0
+Niger,2015,Capital city population (as a percentage of total population),5.6
+Niger,2018,Urban population (percent),16.4
+Niger,2018,Capital city population (thousands),1214.0
+Nigeria,2005,Urban population (percent),39.1
+Nigeria,2005,Capital city population (thousands),1316.0
+Nigeria,2005,Capital city population (as a percentage of total population),0.9
+Nigeria,2010,Urban population (percent),43.5
+Nigeria,2010,Capital city population (thousands),1814.0
+Nigeria,2010,Capital city population (as a percentage of total population),1.1
+Nigeria,2015,Urban population (percent),47.8
+Nigeria,2015,Capital city population (thousands),2442.0
+Nigeria,2015,Capital city population (as a percentage of total population),1.3
+Nigeria,2018,Urban population (percent),50.3
+Nigeria,2018,Capital city population (thousands),2919.0
+Niue,2005,Urban population (percent),35.2
+Niue,2010,Urban population (percent),38.7
+Niue,2015,Urban population (percent),42.6
+Niue,2018,Urban population (percent),44.8
+Niue,2018,Capital city population (thousands),1.0
+Northern Mariana Islands,2005,Urban population (percent),90.6
+Northern Mariana Islands,2010,Urban population (percent),90.9
+Northern Mariana Islands,2010,Capital city population (thousands),4.0
+Northern Mariana Islands,2015,Urban population (percent),91.4
+Northern Mariana Islands,2018,Urban population (percent),91.6
+Norway,2005,Urban population (percent),77.7
+Norway,2005,Capital city population (thousands),818.0
+Norway,2005,Capital city population (as a percentage of total population),17.7
+Norway,2010,Urban population (percent),79.1
+Norway,2010,Capital city population (thousands),898.0
+Norway,2010,Capital city population (as a percentage of total population),18.4
+Norway,2015,Urban population (percent),81.1
+Norway,2015,Capital city population (thousands),969.0
+Norway,2015,Capital city population (as a percentage of total population),18.6
+Norway,2018,Urban population (percent),82.2
+Norway,2018,Capital city population (thousands),1012.0
+Oman,2005,Urban population (percent),72.4
+Oman,2005,Capital city population (thousands),622.0
+Oman,2005,Capital city population (as a percentage of total population),24.8
+Oman,2010,Urban population (percent),75.2
+Oman,2010,Capital city population (thousands),721.0
+Oman,2010,Capital city population (as a percentage of total population),23.7
+Oman,2015,Urban population (percent),81.4
+Oman,2015,Capital city population (thousands),1180.0
+Oman,2015,Capital city population (as a percentage of total population),28.1
+Oman,2018,Urban population (percent),84.5
+Oman,2018,Capital city population (thousands),1447.0
+Pakistan,2005,Urban population (percent),34.0
+Pakistan,2005,Capital city population (thousands),676.0
+Pakistan,2005,Capital city population (as a percentage of total population),0.4
+Pakistan,2010,Urban population (percent),35.0
+Pakistan,2010,Capital city population (thousands),804.0
+Pakistan,2010,Capital city population (as a percentage of total population),0.5
+Pakistan,2015,Urban population (percent),36.0
+Pakistan,2015,Capital city population (thousands),957.0
+Pakistan,2015,Capital city population (as a percentage of total population),0.5
+Pakistan,2018,Urban population (percent),36.7
+Pakistan,2018,Capital city population (thousands),1061.0
+Palau,2005,Urban population (percent),71.2
+Palau,2010,Urban population (percent),74.8
+Palau,2015,Urban population (percent),78.2
+Palau,2018,Urban population (percent),79.9
+Palau,2018,Capital city population (thousands),11.0
+Panama,2005,Urban population (percent),63.7
+Panama,2005,Capital city population (thousands),1352.0
+Panama,2005,Capital city population (as a percentage of total population),40.6
+Panama,2010,Urban population (percent),65.1
+Panama,2010,Capital city population (thousands),1504.0
+Panama,2010,Capital city population (as a percentage of total population),41.3
+Panama,2015,Urban population (percent),66.7
+Panama,2015,Capital city population (thousands),1673.0
+Panama,2015,Capital city population (as a percentage of total population),42.2
+Panama,2018,Urban population (percent),67.7
+Panama,2018,Capital city population (thousands),1783.0
+Papua New Guinea,2005,Urban population (percent),13.1
+Papua New Guinea,2005,Capital city population (thousands),281.0
+Papua New Guinea,2005,Capital city population (as a percentage of total population),4.5
+Papua New Guinea,2010,Urban population (percent),13.0
+Papua New Guinea,2010,Capital city population (thousands),312.0
+Papua New Guinea,2010,Capital city population (as a percentage of total population),4.4
+Papua New Guinea,2015,Urban population (percent),13.0
+Papua New Guinea,2015,Capital city population (thousands),345.0
+Papua New Guinea,2015,Capital city population (as a percentage of total population),4.4
+Papua New Guinea,2018,Urban population (percent),13.2
+Papua New Guinea,2018,Capital city population (thousands),367.0
+Paraguay,2005,Urban population (percent),57.6
+Paraguay,2005,Capital city population (thousands),2134.0
+Paraguay,2005,Capital city population (as a percentage of total population),36.8
+Paraguay,2010,Urban population (percent),59.3
+Paraguay,2010,Capital city population (thousands),2587.0
+Paraguay,2010,Capital city population (as a percentage of total population),41.7
+Paraguay,2015,Urban population (percent),60.8
+Paraguay,2015,Capital city population (thousands),2967.0
+Paraguay,2015,Capital city population (as a percentage of total population),44.7
+Paraguay,2018,Urban population (percent),61.6
+Paraguay,2018,Capital city population (thousands),3222.0
+Peru,2005,Urban population (percent),75.0
+Peru,2005,Capital city population (thousands),8081.0
+Peru,2005,Capital city population (as a percentage of total population),29.3
+Peru,2010,Urban population (percent),76.4
+Peru,2010,Capital city population (thousands),8920.0
+Peru,2010,Capital city population (as a percentage of total population),30.4
+Peru,2015,Urban population (percent),77.4
+Peru,2015,Capital city population (thousands),9813.0
+Peru,2015,Capital city population (as a percentage of total population),31.3
+Peru,2018,Urban population (percent),77.9
+Peru,2018,Capital city population (thousands),10391.0
+Philippines,2005,Urban population (percent),45.7
+Philippines,2005,Capital city population (thousands),10751.0
+Philippines,2005,Capital city population (as a percentage of total population),12.5
+Philippines,2010,Urban population (percent),45.3
+Philippines,2010,Capital city population (thousands),11887.0
+Philippines,2010,Capital city population (as a percentage of total population),12.7
+Philippines,2015,Urban population (percent),46.3
+Philippines,2015,Capital city population (thousands),12860.0
+Philippines,2015,Capital city population (as a percentage of total population),12.6
+Philippines,2018,Urban population (percent),46.9
+Philippines,2018,Capital city population (thousands),13482.0
+Poland,2005,Urban population (percent),61.5
+Poland,2005,Capital city population (thousands),1684.0
+Poland,2005,Capital city population (as a percentage of total population),4.4
+Poland,2010,Urban population (percent),60.9
+Poland,2010,Capital city population (thousands),1703.0
+Poland,2010,Capital city population (as a percentage of total population),4.4
+Poland,2015,Urban population (percent),60.3
+Poland,2015,Capital city population (thousands),1740.0
+Poland,2015,Capital city population (as a percentage of total population),4.5
+Poland,2018,Urban population (percent),60.1
+Poland,2018,Capital city population (thousands),1768.0
+Portugal,2005,Urban population (percent),57.5
+Portugal,2005,Capital city population (thousands),2742.0
+Portugal,2005,Capital city population (as a percentage of total population),25.9
+Portugal,2010,Urban population (percent),60.6
+Portugal,2010,Capital city population (thousands),2812.0
+Portugal,2010,Capital city population (as a percentage of total population),26.4
+Portugal,2015,Urban population (percent),63.5
+Portugal,2015,Capital city population (thousands),2883.0
+Portugal,2015,Capital city population (as a percentage of total population),27.7
+Portugal,2018,Urban population (percent),65.2
+Portugal,2018,Capital city population (thousands),2927.0
+Puerto Rico,2005,Urban population (percent),94.1
+Puerto Rico,2005,Capital city population (thousands),2493.0
+Puerto Rico,2005,Capital city population (as a percentage of total population),66.2
+Puerto Rico,2010,Urban population (percent),93.8
+Puerto Rico,2010,Capital city population (thousands),2478.0
+Puerto Rico,2010,Capital city population (as a percentage of total population),66.7
+Puerto Rico,2015,Urban population (percent),93.6
+Puerto Rico,2015,Capital city population (thousands),2463.0
+Puerto Rico,2015,Capital city population (as a percentage of total population),67.1
+Puerto Rico,2018,Urban population (percent),93.6
+Puerto Rico,2018,Capital city population (thousands),2454.0
+Qatar,2005,Urban population (percent),97.4
+Qatar,2005,Capital city population (thousands),373.0
+Qatar,2005,Capital city population (as a percentage of total population),43.1
+Qatar,2010,Urban population (percent),98.5
+Qatar,2010,Capital city population (thousands),524.0
+Qatar,2010,Capital city population (as a percentage of total population),29.4
+Qatar,2015,Urban population (percent),98.9
+Qatar,2015,Capital city population (thousands),590.0
+Qatar,2015,Capital city population (as a percentage of total population),23.8
+Qatar,2018,Urban population (percent),99.1
+Qatar,2018,Capital city population (thousands),633.0
+Republic of Korea,2005,Urban population (percent),81.3
+Republic of Korea,2005,Capital city population (thousands),9822.0
+Republic of Korea,2005,Capital city population (as a percentage of total population),20.2
+Republic of Korea,2010,Urban population (percent),81.9
+Republic of Korea,2010,Capital city population (thousands),9796.0
+Republic of Korea,2010,Capital city population (as a percentage of total population),19.8
+Republic of Korea,2015,Urban population (percent),81.6
+Republic of Korea,2015,Capital city population (thousands),9897.0
+Republic of Korea,2015,Capital city population (as a percentage of total population),19.6
+Republic of Korea,2018,Urban population (percent),81.5
+Republic of Korea,2018,Capital city population (thousands),9963.0
+Republic of Moldova,2005,Urban population (percent),42.8
+Republic of Moldova,2005,Capital city population (thousands),585.0
+Republic of Moldova,2005,Capital city population (as a percentage of total population),14.1
+Republic of Moldova,2010,Urban population (percent),42.6
+Republic of Moldova,2010,Capital city population (thousands),555.0
+Republic of Moldova,2010,Capital city population (as a percentage of total population),13.6
+Republic of Moldova,2015,Urban population (percent),42.5
+Republic of Moldova,2015,Capital city population (thousands),526.0
+Republic of Moldova,2015,Capital city population (as a percentage of total population),12.9
+Republic of Moldova,2018,Urban population (percent),42.6
+Republic of Moldova,2018,Capital city population (thousands),510.0
+RÈunion,2005,Urban population (percent),96.3
+RÈunion,2010,Urban population (percent),98.5
+RÈunion,2015,Urban population (percent),99.3
+RÈunion,2018,Urban population (percent),99.6
+RÈunion,2018,Capital city population (thousands),147.0
+Romania,2005,Urban population (percent),53.2
+Romania,2005,Capital city population (thousands),1912.0
+Romania,2005,Capital city population (as a percentage of total population),8.9
+Romania,2010,Urban population (percent),53.8
+Romania,2010,Capital city population (thousands),1889.0
+Romania,2010,Capital city population (as a percentage of total population),9.2
+Romania,2015,Urban population (percent),53.9
+Romania,2015,Capital city population (thousands),1849.0
+Romania,2015,Capital city population (as a percentage of total population),9.3
+Romania,2018,Urban population (percent),54.0
+Romania,2018,Capital city population (thousands),1821.0
+Russian Federation,2005,Urban population (percent),73.5
+Russian Federation,2005,Capital city population (thousands),10751.0
+Russian Federation,2005,Capital city population (as a percentage of total population),7.5
+Russian Federation,2010,Urban population (percent),73.7
+Russian Federation,2010,Capital city population (thousands),11461.0
+Russian Federation,2010,Capital city population (as a percentage of total population),8.0
+Russian Federation,2015,Urban population (percent),74.1
+Russian Federation,2015,Capital city population (thousands),12049.0
+Russian Federation,2015,Capital city population (as a percentage of total population),8.4
+Russian Federation,2018,Urban population (percent),74.4
+Russian Federation,2018,Capital city population (thousands),12410.0
+Rwanda,2005,Urban population (percent),16.9
+Rwanda,2005,Capital city population (thousands),668.0
+Rwanda,2005,Capital city population (as a percentage of total population),7.4
+Rwanda,2010,Urban population (percent),16.9
+Rwanda,2010,Capital city population (thousands),797.0
+Rwanda,2010,Capital city population (as a percentage of total population),7.8
+Rwanda,2015,Urban population (percent),17.0
+Rwanda,2015,Capital city population (thousands),951.0
+Rwanda,2015,Capital city population (as a percentage of total population),8.2
+Rwanda,2018,Urban population (percent),17.2
+Rwanda,2018,Capital city population (thousands),1058.0
+Saint Helena,2005,Urban population (percent),39.9
+Saint Helena,2010,Urban population (percent),39.5
+Saint Helena,2015,Urban population (percent),39.5
+Saint Helena,2018,Urban population (percent),39.8
+Saint Helena,2018,Capital city population (thousands),1.0
+Saint Kitts and Nevis,2005,Urban population (percent),32.0
+Saint Kitts and Nevis,2010,Urban population (percent),31.3
+Saint Kitts and Nevis,2015,Urban population (percent),30.8
+Saint Kitts and Nevis,2018,Urban population (percent),30.8
+Saint Kitts and Nevis,2018,Capital city population (thousands),14.0
+Saint Lucia,2005,Urban population (percent),23.1
+Saint Lucia,2010,Urban population (percent),18.5
+Saint Lucia,2015,Urban population (percent),18.5
+Saint Lucia,2018,Urban population (percent),18.7
+Saint Lucia,2018,Capital city population (thousands),22.0
+Saint Pierre and Miquelon,2005,Urban population (percent),89.9
+Saint Pierre and Miquelon,2010,Urban population (percent),89.9
+Saint Pierre and Miquelon,2015,Urban population (percent),89.9
+Saint Pierre and Miquelon,2018,Urban population (percent),89.9
+Saint Pierre and Miquelon,2018,Capital city population (thousands),6.0
+Saint Vincent & Grenadines,2005,Urban population (percent),47.0
+Saint Vincent & Grenadines,2010,Urban population (percent),49.0
+Saint Vincent & Grenadines,2015,Urban population (percent),51.0
+Saint Vincent & Grenadines,2018,Urban population (percent),52.2
+Saint Vincent & Grenadines,2018,Capital city population (thousands),27.0
+Samoa,2005,Urban population (percent),21.2
+Samoa,2010,Urban population (percent),20.1
+Samoa,2015,Urban population (percent),18.9
+Samoa,2018,Urban population (percent),18.2
+Samoa,2018,Capital city population (thousands),36.0
+San Marino,2005,Urban population (percent),94.5
+San Marino,2010,Urban population (percent),95.7
+San Marino,2015,Urban population (percent),96.7
+San Marino,2018,Urban population (percent),97.2
+San Marino,2018,Capital city population (thousands),4.0
+Sao Tome and Principe,2005,Urban population (percent),59.2
+Sao Tome and Principe,2010,Urban population (percent),65.0
+Sao Tome and Principe,2015,Urban population (percent),70.2
+Sao Tome and Principe,2018,Urban population (percent),72.8
+Sao Tome and Principe,2018,Capital city population (thousands),80.0
+Saudi Arabia,2005,Urban population (percent),81.0
+Saudi Arabia,2005,Capital city population (thousands),4252.0
+Saudi Arabia,2005,Capital city population (as a percentage of total population),17.8
+Saudi Arabia,2010,Urban population (percent),82.1
+Saudi Arabia,2010,Capital city population (thousands),5220.0
+Saudi Arabia,2010,Capital city population (as a percentage of total population),19.0
+Saudi Arabia,2015,Urban population (percent),83.2
+Saudi Arabia,2015,Capital city population (thousands),6218.0
+Saudi Arabia,2015,Capital city population (as a percentage of total population),19.7
+Saudi Arabia,2018,Urban population (percent),83.8
+Saudi Arabia,2018,Capital city population (thousands),6907.0
+Senegal,2005,Urban population (percent),41.7
+Senegal,2005,Capital city population (thousands),2135.0
+Senegal,2005,Capital city population (as a percentage of total population),19.0
+Senegal,2010,Urban population (percent),43.8
+Senegal,2010,Capital city population (thousands),2427.0
+Senegal,2010,Capital city population (as a percentage of total population),18.8
+Senegal,2015,Urban population (percent),45.9
+Senegal,2015,Capital city population (thousands),2758.0
+Senegal,2015,Capital city population (as a percentage of total population),18.4
+Senegal,2018,Urban population (percent),47.2
+Senegal,2018,Capital city population (thousands),2978.0
+Serbia,2005,Urban population (percent),53.9
+Serbia,2005,Capital city population (thousands),1303.0
+Serbia,2005,Capital city population (as a percentage of total population),14.1
+Serbia,2010,Urban population (percent),55.0
+Serbia,2010,Capital city population (thousands),1336.0
+Serbia,2010,Capital city population (as a percentage of total population),14.8
+Serbia,2015,Urban population (percent),55.7
+Serbia,2015,Capital city population (thousands),1369.0
+Serbia,2015,Capital city population (as a percentage of total population),15.5
+Serbia,2018,Urban population (percent),56.1
+Serbia,2018,Capital city population (thousands),1389.0
+Seychelles,2005,Urban population (percent),51.7
+Seychelles,2010,Urban population (percent),53.3
+Seychelles,2015,Urban population (percent),55.4
+Seychelles,2018,Urban population (percent),56.7
+Seychelles,2018,Capital city population (thousands),28.0
+Sierra Leone,2005,Urban population (percent),36.9
+Sierra Leone,2005,Capital city population (thousands),786.0
+Sierra Leone,2005,Capital city population (as a percentage of total population),13.9
+Sierra Leone,2010,Urban population (percent),38.9
+Sierra Leone,2010,Capital city population (thousands),905.0
+Sierra Leone,2010,Capital city population (as a percentage of total population),14.0
+Sierra Leone,2015,Urban population (percent),40.8
+Sierra Leone,2015,Capital city population (thousands),1043.0
+Sierra Leone,2015,Capital city population (as a percentage of total population),14.4
+Sierra Leone,2018,Urban population (percent),42.1
+Sierra Leone,2018,Capital city population (thousands),1136.0
+Singapore,2005,Urban population (percent),100.0
+Singapore,2005,Capital city population (thousands),4491.0
+Singapore,2005,Capital city population (as a percentage of total population),100.0
+Singapore,2010,Urban population (percent),100.0
+Singapore,2010,Capital city population (thousands),5074.0
+Singapore,2010,Capital city population (as a percentage of total population),100.0
+Singapore,2015,Urban population (percent),100.0
+Singapore,2015,Capital city population (thousands),5535.0
+Singapore,2015,Capital city population (as a percentage of total population),100.0
+Singapore,2018,Urban population (percent),100.0
+Singapore,2018,Capital city population (thousands),5792.0
+Sint Maarten (Dutch part),2005,Urban population (percent),100.0
+Sint Maarten (Dutch part),2010,Urban population (percent),100.0
+Sint Maarten (Dutch part),2015,Urban population (percent),100.0
+Sint Maarten (Dutch part),2018,Urban population (percent),100.0
+Sint Maarten (Dutch part),2018,Capital city population (thousands),41.0
+Slovakia,2005,Urban population (percent),55.6
+Slovakia,2005,Capital city population (thousands),426.0
+Slovakia,2005,Capital city population (as a percentage of total population),7.9
+Slovakia,2010,Urban population (percent),54.7
+Slovakia,2010,Capital city population (thousands),414.0
+Slovakia,2010,Capital city population (as a percentage of total population),7.7
+Slovakia,2015,Urban population (percent),53.9
+Slovakia,2015,Capital city population (thousands),422.0
+Slovakia,2015,Capital city population (as a percentage of total population),7.8
+Slovakia,2018,Urban population (percent),53.7
+Slovakia,2018,Capital city population (thousands),430.0
+Slovenia,2005,Urban population (percent),51.5
+Slovenia,2010,Urban population (percent),52.7
+Slovenia,2015,Urban population (percent),53.8
+Slovenia,2018,Urban population (percent),54.5
+Slovenia,2018,Capital city population (thousands),286.0
+Solomon Islands,2005,Urban population (percent),17.8
+Solomon Islands,2010,Urban population (percent),20.0
+Solomon Islands,2015,Urban population (percent),22.4
+Solomon Islands,2018,Urban population (percent),23.7
+Solomon Islands,2018,Capital city population (thousands),82.0
+Somalia,2005,Urban population (percent),36.3
+Somalia,2005,Capital city population (thousands),1415.0
+Somalia,2005,Capital city population (as a percentage of total population),13.6
+Somalia,2010,Urban population (percent),39.3
+Somalia,2010,Capital city population (thousands),1353.0
+Somalia,2010,Capital city population (as a percentage of total population),11.2
+Somalia,2015,Urban population (percent),43.2
+Somalia,2015,Capital city population (thousands),1783.0
+Somalia,2015,Capital city population (as a percentage of total population),12.8
+Somalia,2018,Urban population (percent),45.0
+Somalia,2018,Capital city population (thousands),2082.0
+South Africa,2005,Urban population (percent),59.5
+South Africa,2005,Capital city population (thousands),1334.0
+South Africa,2005,Capital city population (as a percentage of total population),2.7
+South Africa,2010,Urban population (percent),62.2
+South Africa,2010,Capital city population (thousands),1666.0
+South Africa,2010,Capital city population (as a percentage of total population),3.2
+South Africa,2015,Urban population (percent),64.8
+South Africa,2015,Capital city population (thousands),2081.0
+South Africa,2015,Capital city population (as a percentage of total population),3.8
+South Africa,2018,Urban population (percent),66.4
+South Africa,2018,Capital city population (thousands),2378.0
+South Sudan,2005,Urban population (percent),17.2
+South Sudan,2005,Capital city population (thousands),202.0
+South Sudan,2005,Capital city population (as a percentage of total population),2.5
+South Sudan,2010,Urban population (percent),17.9
+South Sudan,2010,Capital city population (thousands),255.0
+South Sudan,2010,Capital city population (as a percentage of total population),2.5
+South Sudan,2015,Urban population (percent),18.9
+South Sudan,2015,Capital city population (thousands),321.0
+South Sudan,2015,Capital city population (as a percentage of total population),2.7
+South Sudan,2018,Urban population (percent),19.6
+South Sudan,2018,Capital city population (thousands),369.0
+Spain,2005,Urban population (percent),77.3
+Spain,2005,Capital city population (thousands),5383.0
+Spain,2005,Capital city population (as a percentage of total population),12.2
+Spain,2010,Urban population (percent),78.4
+Spain,2010,Capital city population (thousands),5787.0
+Spain,2010,Capital city population (as a percentage of total population),12.4
+Spain,2015,Urban population (percent),79.6
+Spain,2015,Capital city population (thousands),6221.0
+Spain,2015,Capital city population (as a percentage of total population),13.4
+Spain,2018,Urban population (percent),80.3
+Spain,2018,Capital city population (thousands),6497.0
+Sri Lanka,2005,Urban population (percent),18.3
+Sri Lanka,2005,Capital city population (thousands),614.0
+Sri Lanka,2005,Capital city population (as a percentage of total population),3.1
+Sri Lanka,2010,Urban population (percent),18.2
+Sri Lanka,2010,Capital city population (thousands),574.0
+Sri Lanka,2010,Capital city population (as a percentage of total population),2.8
+Sri Lanka,2015,Urban population (percent),18.3
+Sri Lanka,2015,Capital city population (thousands),581.0
+Sri Lanka,2015,Capital city population (as a percentage of total population),2.8
+Sri Lanka,2018,Urban population (percent),18.5
+Sri Lanka,2018,Capital city population (thousands),600.0
+State of Palestine,2005,Urban population (percent),73.1
+State of Palestine,2010,Urban population (percent),74.1
+State of Palestine,2015,Urban population (percent),75.4
+State of Palestine,2018,Urban population (percent),76.2
+State of Palestine,2018,Capital city population (thousands),275.0
+Sudan,2005,Urban population (percent),32.8
+Sudan,2005,Capital city population (thousands),3979.0
+Sudan,2005,Capital city population (as a percentage of total population),12.9
+Sudan,2010,Urban population (percent),33.1
+Sudan,2010,Capital city population (thousands),4517.0
+Sudan,2010,Capital city population (as a percentage of total population),13.1
+Sudan,2015,Urban population (percent),33.9
+Sudan,2015,Capital city population (thousands),5128.0
+Sudan,2015,Capital city population (as a percentage of total population),13.3
+Sudan,2018,Urban population (percent),34.6
+Sudan,2018,Capital city population (thousands),5534.0
+Suriname,2005,Urban population (percent),66.7
+Suriname,2010,Urban population (percent),66.3
+Suriname,2015,Urban population (percent),66.1
+Suriname,2018,Urban population (percent),66.1
+Suriname,2018,Capital city population (thousands),239.0
+Sweden,2005,Urban population (percent),84.3
+Sweden,2005,Capital city population (thousands),1248.0
+Sweden,2005,Capital city population (as a percentage of total population),13.8
+Sweden,2010,Urban population (percent),85.1
+Sweden,2010,Capital city population (thousands),1360.0
+Sweden,2010,Capital city population (as a percentage of total population),14.5
+Sweden,2015,Urban population (percent),86.6
+Sweden,2015,Capital city population (thousands),1495.0
+Sweden,2015,Capital city population (as a percentage of total population),15.3
+Sweden,2018,Urban population (percent),87.4
+Sweden,2018,Capital city population (thousands),1583.0
+Switzerland,2005,Urban population (percent),73.5
+Switzerland,2005,Capital city population (thousands),367.0
+Switzerland,2005,Capital city population (as a percentage of total population),5.0
+Switzerland,2010,Urban population (percent),73.6
+Switzerland,2010,Capital city population (thousands),387.0
+Switzerland,2010,Capital city population (as a percentage of total population),4.9
+Switzerland,2015,Urban population (percent),73.7
+Switzerland,2015,Capital city population (thousands),409.0
+Switzerland,2015,Capital city population (as a percentage of total population),4.9
+Switzerland,2018,Urban population (percent),73.8
+Switzerland,2018,Capital city population (thousands),422.0
+Syrian Arab Republic,2005,Urban population (percent),53.8
+Syrian Arab Republic,2005,Capital city population (thousands),2200.0
+Syrian Arab Republic,2005,Capital city population (as a percentage of total population),12.0
+Syrian Arab Republic,2010,Urban population (percent),55.6
+Syrian Arab Republic,2010,Capital city population (thousands),2401.0
+Syrian Arab Republic,2010,Capital city population (as a percentage of total population),11.4
+Syrian Arab Republic,2015,Urban population (percent),52.2
+Syrian Arab Republic,2015,Capital city population (thousands),2223.0
+Syrian Arab Republic,2015,Capital city population (as a percentage of total population),11.9
+Syrian Arab Republic,2018,Urban population (percent),54.2
+Syrian Arab Republic,2018,Capital city population (thousands),2320.0
+Tajikistan,2005,Urban population (percent),26.5
+Tajikistan,2005,Capital city population (thousands),640.0
+Tajikistan,2005,Capital city population (as a percentage of total population),9.3
+Tajikistan,2010,Urban population (percent),26.5
+Tajikistan,2010,Capital city population (thousands),721.0
+Tajikistan,2010,Capital city population (as a percentage of total population),9.4
+Tajikistan,2015,Urban population (percent),26.7
+Tajikistan,2015,Capital city population (thousands),812.0
+Tajikistan,2015,Capital city population (as a percentage of total population),9.5
+Tajikistan,2018,Urban population (percent),27.1
+Tajikistan,2018,Capital city population (thousands),873.0
+Thailand,2005,Urban population (percent),37.4
+Thailand,2005,Capital city population (thousands),7272.0
+Thailand,2005,Capital city population (as a percentage of total population),11.1
+Thailand,2010,Urban population (percent),43.9
+Thailand,2010,Capital city population (thousands),8269.0
+Thailand,2010,Capital city population (as a percentage of total population),12.3
+Thailand,2015,Urban population (percent),47.7
+Thailand,2015,Capital city population (thousands),9403.0
+Thailand,2015,Capital city population (as a percentage of total population),13.7
+Thailand,2018,Urban population (percent),49.9
+Thailand,2018,Capital city population (thousands),10156.0
+TFYR of Macedonia,2005,Urban population (percent),57.5
+TFYR of Macedonia,2005,Capital city population (thousands),485.0
+TFYR of Macedonia,2005,Capital city population (as a percentage of total population),23.6
+TFYR of Macedonia,2010,Urban population (percent),57.1
+TFYR of Macedonia,2010,Capital city population (thousands),521.0
+TFYR of Macedonia,2010,Capital city population (as a percentage of total population),25.2
+TFYR of Macedonia,2015,Urban population (percent),57.4
+TFYR of Macedonia,2015,Capital city population (thousands),560.0
+TFYR of Macedonia,2015,Capital city population (as a percentage of total population),26.9
+TFYR of Macedonia,2018,Urban population (percent),58.0
+TFYR of Macedonia,2018,Capital city population (thousands),584.0
+Timor-Leste,2005,Urban population (percent),26.0
+Timor-Leste,2010,Urban population (percent),27.7
+Timor-Leste,2015,Urban population (percent),29.5
+Timor-Leste,2018,Urban population (percent),30.6
+Timor-Leste,2018,Capital city population (thousands),281.0
+Togo,2005,Urban population (percent),35.2
+Togo,2005,Capital city population (thousands),1315.0
+Togo,2005,Capital city population (as a percentage of total population),23.1
+Togo,2010,Urban population (percent),37.5
+Togo,2010,Capital city population (thousands),1466.0
+Togo,2010,Capital city population (as a percentage of total population),22.6
+Togo,2015,Urban population (percent),40.1
+Togo,2015,Capital city population (thousands),1635.0
+Togo,2015,Capital city population (as a percentage of total population),22.0
+Togo,2018,Urban population (percent),41.7
+Togo,2018,Capital city population (thousands),1746.0
+Tokelau,2005,Urban population (percent),0.0
+Tokelau,2010,Urban population (percent),0.0
+Tokelau,2015,Urban population (percent),0.0
+Tokelau,2018,Urban population (percent),0.0
+Tonga,2005,Urban population (percent),23.2
+Tonga,2010,Urban population (percent),23.4
+Tonga,2015,Urban population (percent),23.3
+Tonga,2018,Urban population (percent),23.1
+Tonga,2018,Capital city population (thousands),23.0
+Trinidad and Tobago,2005,Urban population (percent),55.0
+Trinidad and Tobago,2005,Capital city population (thousands),547.0
+Trinidad and Tobago,2005,Capital city population (as a percentage of total population),42.2
+Trinidad and Tobago,2010,Urban population (percent),54.0
+Trinidad and Tobago,2010,Capital city population (thousands),546.0
+Trinidad and Tobago,2010,Capital city population (as a percentage of total population),41.1
+Trinidad and Tobago,2015,Urban population (percent),53.3
+Trinidad and Tobago,2015,Capital city population (thousands),545.0
+Trinidad and Tobago,2015,Capital city population (as a percentage of total population),40.1
+Trinidad and Tobago,2018,Urban population (percent),53.2
+Trinidad and Tobago,2018,Capital city population (thousands),544.0
+Tunisia,2005,Urban population (percent),65.2
+Tunisia,2005,Capital city population (thousands),1859.0
+Tunisia,2005,Capital city population (as a percentage of total population),18.4
+Tunisia,2010,Urban population (percent),66.7
+Tunisia,2010,Capital city population (thousands),2014.0
+Tunisia,2010,Capital city population (as a percentage of total population),18.9
+Tunisia,2015,Urban population (percent),68.1
+Tunisia,2015,Capital city population (thousands),2183.0
+Tunisia,2015,Capital city population (as a percentage of total population),19.4
+Tunisia,2018,Urban population (percent),68.9
+Tunisia,2018,Capital city population (thousands),2291.0
+Turkey,2005,Urban population (percent),67.8
+Turkey,2005,Capital city population (thousands),3638.0
+Turkey,2005,Capital city population (as a percentage of total population),5.4
+Turkey,2010,Urban population (percent),70.8
+Turkey,2010,Capital city population (thousands),4166.0
+Turkey,2010,Capital city population (as a percentage of total population),5.8
+Turkey,2015,Urban population (percent),73.6
+Turkey,2015,Capital city population (thousands),4633.0
+Turkey,2015,Capital city population (as a percentage of total population),5.9
+Turkey,2018,Urban population (percent),75.1
+Turkey,2018,Capital city population (thousands),4919.0
+Turkmenistan,2005,Urban population (percent),47.1
+Turkmenistan,2005,Capital city population (thousands),592.0
+Turkmenistan,2005,Capital city population (as a percentage of total population),12.4
+Turkmenistan,2010,Urban population (percent),48.5
+Turkmenistan,2010,Capital city population (thousands),668.0
+Turkmenistan,2010,Capital city population (as a percentage of total population),13.1
+Turkmenistan,2015,Urban population (percent),50.3
+Turkmenistan,2015,Capital city population (thousands),753.0
+Turkmenistan,2015,Capital city population (as a percentage of total population),13.5
+Turkmenistan,2018,Urban population (percent),51.6
+Turkmenistan,2018,Capital city population (thousands),810.0
+Turks and Caicos Islands,2001,Urban population (percent),85.4
+Turks and Caicos Islands,2001,Capital city population (thousands),0.0
+Turks and Caicos Islands,2005,Urban population (percent),87.7
+Turks and Caicos Islands,2010,Urban population (percent),90.2
+Turks and Caicos Islands,2015,Urban population (percent),92.2
+Turks and Caicos Islands,2018,Urban population (percent),93.1
+Tuvalu,2005,Urban population (percent),49.7
+Tuvalu,2010,Urban population (percent),54.8
+Tuvalu,2015,Urban population (percent),59.7
+Tuvalu,2018,Urban population (percent),62.4
+Tuvalu,2018,Capital city population (thousands),7.0
+Uganda,2005,Urban population (percent),17.0
+Uganda,2005,Capital city population (thousands),1576.0
+Uganda,2005,Capital city population (as a percentage of total population),5.5
+Uganda,2010,Urban population (percent),19.4
+Uganda,2010,Capital city population (thousands),2016.0
+Uganda,2010,Capital city population (as a percentage of total population),5.9
+Uganda,2015,Urban population (percent),22.1
+Uganda,2015,Capital city population (thousands),2577.0
+Uganda,2015,Capital city population (as a percentage of total population),6.4
+Uganda,2018,Urban population (percent),23.8
+Uganda,2018,Capital city population (thousands),2986.0
+Ukraine,2005,Urban population (percent),67.8
+Ukraine,2005,Capital city population (thousands),2673.0
+Ukraine,2005,Capital city population (as a percentage of total population),5.7
+Ukraine,2010,Urban population (percent),68.6
+Ukraine,2010,Capital city population (thousands),2795.0
+Ukraine,2010,Capital city population (as a percentage of total population),6.1
+Ukraine,2015,Urban population (percent),69.1
+Ukraine,2015,Capital city population (thousands),2895.0
+Ukraine,2015,Capital city population (as a percentage of total population),6.5
+Ukraine,2018,Urban population (percent),69.4
+Ukraine,2018,Capital city population (thousands),2957.0
+United Arab Emirates,2005,Urban population (percent),82.3
+United Arab Emirates,2005,Capital city population (thousands),655.0
+United Arab Emirates,2005,Capital city population (as a percentage of total population),14.3
+United Arab Emirates,2010,Urban population (percent),84.1
+United Arab Emirates,2010,Capital city population (thousands),912.0
+United Arab Emirates,2010,Capital city population (as a percentage of total population),11.0
+United Arab Emirates,2015,Urban population (percent),85.7
+United Arab Emirates,2015,Capital city population (thousands),1203.0
+United Arab Emirates,2015,Capital city population (as a percentage of total population),13.1
+United Arab Emirates,2018,Urban population (percent),86.5
+United Arab Emirates,2018,Capital city population (thousands),1420.0
+United Kingdom,2005,Urban population (percent),79.9
+United Kingdom,2005,Capital city population (thousands),7501.0
+United Kingdom,2005,Capital city population (as a percentage of total population),12.4
+United Kingdom,2010,Urban population (percent),81.3
+United Kingdom,2010,Capital city population (thousands),8044.0
+United Kingdom,2010,Capital city population (as a percentage of total population),12.7
+United Kingdom,2015,Urban population (percent),82.6
+United Kingdom,2015,Capital city population (thousands),8661.0
+United Kingdom,2015,Capital city population (as a percentage of total population),13.2
+United Kingdom,2018,Urban population (percent),83.4
+United Kingdom,2018,Capital city population (thousands),9046.0
+United Rep. of Tanzania,2005,Urban population (percent),24.8
+United Rep. of Tanzania,2010,Urban population (percent),28.1
+United Rep. of Tanzania,2015,Urban population (percent),31.6
+United Rep. of Tanzania,2018,Urban population (percent),33.8
+United Rep. of Tanzania,2018,Capital city population (thousands),262.0
+United States of America,2005,Urban population (percent),79.9
+United States of America,2005,Capital city population (thousands),4264.0
+United States of America,2005,Capital city population (as a percentage of total population),1.4
+United States of America,2010,Urban population (percent),80.8
+United States of America,2010,Capital city population (thousands),4604.0
+United States of America,2010,Capital city population (as a percentage of total population),1.5
+United States of America,2015,Urban population (percent),81.7
+United States of America,2015,Capital city population (thousands),4972.0
+United States of America,2015,Capital city population (as a percentage of total population),1.6
+United States of America,2018,Urban population (percent),82.3
+United States of America,2018,Capital city population (thousands),5207.0
+United States Virgin Islands,2005,Urban population (percent),93.7
+United States Virgin Islands,2010,Urban population (percent),94.6
+United States Virgin Islands,2015,Urban population (percent),95.4
+United States Virgin Islands,2018,Urban population (percent),95.7
+United States Virgin Islands,2018,Capital city population (thousands),52.0
+Uruguay,2005,Urban population (percent),93.3
+Uruguay,2005,Capital city population (thousands),1613.0
+Uruguay,2005,Capital city population (as a percentage of total population),48.5
+Uruguay,2010,Urban population (percent),94.4
+Uruguay,2010,Capital city population (thousands),1659.0
+Uruguay,2010,Capital city population (as a percentage of total population),49.2
+Uruguay,2015,Urban population (percent),95.0
+Uruguay,2015,Capital city population (thousands),1707.0
+Uruguay,2015,Capital city population (as a percentage of total population),49.8
+Uruguay,2018,Urban population (percent),95.3
+Uruguay,2018,Capital city population (thousands),1737.0
+Uzbekistan,2005,Urban population (percent),48.5
+Uzbekistan,2005,Capital city population (thousands),2169.0
+Uzbekistan,2005,Capital city population (as a percentage of total population),8.2
+Uzbekistan,2010,Urban population (percent),51.0
+Uzbekistan,2010,Capital city population (thousands),2244.0
+Uzbekistan,2010,Capital city population (as a percentage of total population),7.8
+Uzbekistan,2015,Urban population (percent),50.8
+Uzbekistan,2015,Capital city population (thousands),2379.0
+Uzbekistan,2015,Capital city population (as a percentage of total population),7.7
+Uzbekistan,2018,Urban population (percent),50.5
+Uzbekistan,2018,Capital city population (thousands),2464.0
+Vanuatu,2005,Urban population (percent),23.1
+Vanuatu,2010,Urban population (percent),24.5
+Vanuatu,2015,Urban population (percent),25.0
+Vanuatu,2018,Urban population (percent),25.3
+Vanuatu,2018,Capital city population (thousands),53.0
+Venezuela (Boliv. Rep. of),2005,Urban population (percent),88.0
+Venezuela (Boliv. Rep. of),2005,Capital city population (thousands),2886.0
+Venezuela (Boliv. Rep. of),2005,Capital city population (as a percentage of total population),10.8
+Venezuela (Boliv. Rep. of),2010,Urban population (percent),88.1
+Venezuela (Boliv. Rep. of),2010,Capital city population (thousands),2899.0
+Venezuela (Boliv. Rep. of),2010,Capital city population (as a percentage of total population),10.0
+Venezuela (Boliv. Rep. of),2015,Urban population (percent),88.2
+Venezuela (Boliv. Rep. of),2015,Capital city population (thousands),2920.0
+Venezuela (Boliv. Rep. of),2015,Capital city population (as a percentage of total population),9.4
+Venezuela (Boliv. Rep. of),2018,Urban population (percent),88.2
+Venezuela (Boliv. Rep. of),2018,Capital city population (thousands),2935.0
+Viet Nam,2005,Urban population (percent),27.3
+Viet Nam,2005,Capital city population (thousands),2160.0
+Viet Nam,2005,Capital city population (as a percentage of total population),2.6
+Viet Nam,2010,Urban population (percent),30.4
+Viet Nam,2010,Capital city population (thousands),2811.0
+Viet Nam,2010,Capital city population (as a percentage of total population),3.2
+Viet Nam,2015,Urban population (percent),33.8
+Viet Nam,2015,Capital city population (thousands),3657.0
+Viet Nam,2015,Capital city population (as a percentage of total population),3.9
+Viet Nam,2018,Urban population (percent),35.9
+Viet Nam,2018,Capital city population (thousands),4283.0
+Wallis and Futuna Islands,2005,Urban population (percent),0.0
+Wallis and Futuna Islands,2010,Urban population (percent),0.0
+Wallis and Futuna Islands,2015,Urban population (percent),0.0
+Wallis and Futuna Islands,2018,Urban population (percent),0.0
+Wallis and Futuna Islands,2018,Capital city population (thousands),1.0
+Western Sahara,2005,Urban population (percent),86.0
+Western Sahara,2010,Urban population (percent),86.3
+Western Sahara,2015,Urban population (percent),86.5
+Western Sahara,2018,Urban population (percent),86.7
+Western Sahara,2018,Capital city population (thousands),232.0
+Yemen,2005,Urban population (percent),28.9
+Yemen,2005,Capital city population (thousands),1741.0
+Yemen,2005,Capital city population (as a percentage of total population),8.5
+Yemen,2010,Urban population (percent),31.8
+Yemen,2010,Capital city population (thousands),2084.0
+Yemen,2010,Capital city population (as a percentage of total population),8.8
+Yemen,2015,Urban population (percent),34.8
+Yemen,2015,Capital city population (thousands),2495.0
+Yemen,2015,Capital city population (as a percentage of total population),9.3
+Yemen,2018,Urban population (percent),36.6
+Yemen,2018,Capital city population (thousands),2779.0
+Zambia,2005,Urban population (percent),36.9
+Zambia,2005,Capital city population (thousands),1357.0
+Zambia,2005,Capital city population (as a percentage of total population),11.3
+Zambia,2010,Urban population (percent),39.4
+Zambia,2010,Capital city population (thousands),1723.0
+Zambia,2010,Capital city population (as a percentage of total population),12.4
+Zambia,2015,Urban population (percent),41.9
+Zambia,2015,Capital city population (thousands),2187.0
+Zambia,2015,Capital city population (as a percentage of total population),13.6
+Zambia,2018,Urban population (percent),43.5
+Zambia,2018,Capital city population (thousands),2524.0
+Zimbabwe,2005,Urban population (percent),34.1
+Zimbabwe,2005,Capital city population (thousands),1450.0
+Zimbabwe,2005,Capital city population (as a percentage of total population),11.2
+Zimbabwe,2010,Urban population (percent),33.2
+Zimbabwe,2010,Capital city population (thousands),1475.0
+Zimbabwe,2010,Capital city population (as a percentage of total population),10.5
+Zimbabwe,2015,Urban population (percent),32.4
+Zimbabwe,2015,Capital city population (thousands),1500.0
+Zimbabwe,2015,Capital city population (as a percentage of total population),9.5
+Zimbabwe,2018,Urban population (percent),32.2
+Zimbabwe,2018,Capital city population (thousands),1515.0
